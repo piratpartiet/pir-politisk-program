@@ -247,6 +247,19 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
 - Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
 
+### 4.3 Spill og e-sport
+Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spill som kultur og regulering av gamblinglignende mekanismer. Piratpartiet ser et stort ubenyttet potensiale for økt kultur og næring i dataspill og e-sport, og vil derfor forbedre rammevilkår og øke tilskudd til aktivitet, utdanning, og oppstartsvirksomhet.
+
+#### Piratpartiet vil:
+
+Likestille støtte/tilskudd til ikke-kommersielle miljøer, aktiviteter og organisasjoner som driver med dataspill med støtte/tilskudd til annen kultur, sport og idrett etter tilsvarende kriterier.
+Opprette en paraplyorganisasjon som legges inn under NIF (Norges Idrettsforbund) som skal fremme et bredt tilbud for esport i Norge.
+Øke bevilgninger til innkjøpsordninger via NFI (Norsk Filminstitutt) spesifikt avsatt til dataspill.
+Opprette lokale idefabrikker/kompetansesenter på egnede steder (f. eks. offentlige bibliotek) der miljøer kan komme sammen for å utveksle erfaringer, kunnskap og ideer.
+Satse på utbygging av norskeide datasenter for mange ulike formål, inkludert men ikke begrenset til dataspill.
+Videreføre og forbedre eksisterende satsning på koding i skolen, og øke tilskudd til etterutdanning/kursing av lærere.
+Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjonalt og internasjonalt mot gambling-lignende-mekanismer i dataspill. Ingen støtte til markedsføring eller utvikling må gis til selskaper som tjener penger slike mekanismer internt i spill, heller ikke spill med interne betalings-mekanismer for å oppnå fordeler eller motvirke ulemper.
+
 ## 5. Næringsliv og økonomi
 
 Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
