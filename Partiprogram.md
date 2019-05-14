@@ -97,6 +97,35 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
+### 1.3. Reform av helsesektoren
+
+> Piratpartiet ønsker å jobbe for å styrke pasientene og de ansattes rettigheter.
+
+Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere må lokalt få mer faglig frihet og mindre administrativt stress, sentralisering med dårligere pasientsikkerhet som konsekvens bør stanses.
+
+Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der private aktører utfører et arbeid på vegne av offentlige ansvarshavende må det stilles strenge krav til produktkvalitet, intern og ekstern kontroll, personvern, og arbeiderrettigheter. Det må innføres et tak på inntjeningsgrad og lønnsnivå. Arbeidet med digitalisering og automatisering må intensiveres.
+
+#### Piratpartiet vil:
+
+- Bevare lokale sykehus med akuttkirurgi og fødeavdelinger i hele landet.
+- Sørge for at alvorlig syke mennesker får best mulig behandling og medisinering basert på faglige vurderinger.
+- Forbedre varslervern til alle yrkesgrupper.
+- Fjerne foretaksmodellen for sykehus og legge ned de regionale helseforetakene.
+- Endre dagens utvikling der utdaterte metoder for struktur og ledelse ødelegger arbeidsmiljø og behandlingskvalitet.
+- Fristille medisinsk personale i større grad fra unødvendige administrative rutiner.
+- Utrede behov og iverksette tiltak for nye IT-systemer i samråd med egne fagfolk over hele Norge der pasientsikkerhet, personvern, IT-sikkerhet, og effektiv drift må løses på en tilfredsstillende måte.
+- Innføre moderne systemer for digitalisering og automatisering for effektiv drift.
+- Sikre at nye og bedre behandlingsmetoder tas i bruk basert på faglige vurderinger.
+- Redusere ventetid og helsekøer ved utbygging og forbedring av grunnkapasitet i helsesektoren, men også ved innkjøp av eksterne tjenester der både faglige og økonomiske argumenter peker i samme retning.
+- Øke satsing på rehabilitering og habilitering.
+- Bygge sentraliserte miljøer for spesialisthelsetjenester for behov som ikke har akutt prioritet.
+- Fokusere på preventive helsetiltak for befolkningen for å redusere press på fremtidig behandlingskapasitet.
+- Sørge for at eldre kan leve under verdige forhold i egne hjem og på helseinstitusjoner, derav at aktivering, frihet, og medbestemmelse blir en større del av hverdagen på eldrehjem.
+- Bevare ambulansetjenester og annen kriseberedskap over hele landet.
+- Inkludere tannhelse som en del av øvrige offentlige helsetjenester.
+- Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
+- Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
+
 ## 2. Individ og personvern
 
 > Piratpartiet vil bevare de grunnleggende rettighetene alle individer har, jamfør Piratkodeksen.
