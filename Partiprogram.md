@@ -170,6 +170,10 @@ I den vestlige verden har opphavsrett blitt en alvorlig trussel mot fri kommunik
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
+Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringene krever ny miljøvennlig mobilitet. Infrastrukturen i våre byer, tettsteder og bygder og måtene som vi reiser mellom disse på, vil endre seg stort i fremtiden. Piratpartiet ønsker å legge til rette for effektivisering av kollektivtransport og for selvstyrte, og med det også førerløse drosjer og minibusser.
+
+Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
+
 ### Piratpartiet vil:
 
 - Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
