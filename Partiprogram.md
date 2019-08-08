@@ -341,6 +341,11 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
+- Arbeide for et moderne regelverk for Bitcoin og annen kryptovaluta
+- Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
+- Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer
+- Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
+- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 
 ### 5.1. Bedre rettigheter for næringsdrivende og gründere
 
