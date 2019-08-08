@@ -153,6 +153,10 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Ikke tillate «nakenskanning» på flyplasser.
 - Gjøre kildevernet absolutt.
 - Styrke ytrings- og varslingsfrihet. Gjengjeldelse fra arbeidsgiver straffes med fengsel i inntil seks år.
+- Forsvare retten til bruk av anonyme sosiale nettverk og kommunikasjonstjenester
+- Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon
+- Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
+- Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 
 ## 3. Kommunikasjon og infrastruktur
 
