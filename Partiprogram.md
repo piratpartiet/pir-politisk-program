@@ -214,6 +214,17 @@ Norge.
 Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
 analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
+### 3.2. Reform av finansiering av veibygging/-vedlikehold og kollektivtransport
+Dagens bompengeordning må avvikles, finansiering av veiutbygging/drift/kollektivtransport må skje via skattesystemet.
+
+Piratpartiet foreslår å endre § 4 i yrkestransportlova slik at privatpersoner fritt kan tilby transport mot vederlag. Inntekter på inntil 50.000,– NOK unntas fra mva fra persontransport, men skattlegges som vanlig personinntekt. Inntekter utover 50.000,– NOK vil kreve registrering av virksomhet etter vanlige regler.
+
+Det må satses på utbygging av parker og annet grøntareal i byer. Kollektivtransport, spesielt i områder utsatt for stor kø, må prioriteres til et nivå som har tydelig effekt inklusive gratis billetter for spesifikke strekninger og perioder.
+
+Små energieffektive biler bør ha lavere årsavgift enn store energi-ineffektive biler.
+
+Gjennomgangstrafikk fra industri bør i størst mulig grad unngås ved å omorganisere plassering av veier, industri, og andre transportårer over tid.
+
 ## 4. Kunnskap og kultur
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
