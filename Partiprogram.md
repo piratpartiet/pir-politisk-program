@@ -174,6 +174,8 @@ Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringe
 
 Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
 
+Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
+
 ### Piratpartiet vil:
 
 - Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
