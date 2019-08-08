@@ -125,6 +125,7 @@ Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der privat
 - Inkludere tannhelse som en del av øvrige offentlige helsetjenester.
 - Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
 - Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
+- Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
 
 ## 2. Individ og personvern
 
