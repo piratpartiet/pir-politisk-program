@@ -416,6 +416,8 @@ Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndra
 Fullført studium skal gi pensjonspoeng. 60 produserte studiepoeng skal gi samme opptjening som en arbeidsinntekt på 1,5 G (grunnbeløpet i folketrygden).
 
 ### 5.7. Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter
+Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske ordninger som en erstatning for dagens NAV-system.
+
 Det bør igangsettes eksperimenter i begrensede områder med formål å forske på effekter av en universell basisinntekt, universell tilgang til ressurser/tjenester, og lignende konsepter.
 
 Det må innføres en skatt på informasjon og automatisering/robotisering på et nivå tilpasset økt inntjening/produktivitet.
