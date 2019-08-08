@@ -328,7 +328,59 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 
-### 5.1 Skattlegging av multinasjonale selskaper og kamp mot skatteparadiser
+### 5.1. Bedre rettigheter for næringsdrivende og gründere
+
+For at flere skal våge å starte for seg selv, må vi harmonisere regelverket med selvstendig næringsdrivende og fast ansatte. Piratpartiet vil derfor arbeide for gode, forutsigbare og sosiale rettigheter for næringsdrivende.
+
+Selvstendig næringsdrivende fortjener bedre sosiale rettigheter. De har dårligere rettigheter når det kommer til blant annet pensjonssparing og sykelønn. I tillegg går de glipp av et minstefradrag, som alle fast ansatte har krav på.
+
+#### Piratpartiet mener at:
+
+- Vi må styrke de sosiale rettighetene til selvstendig næringsdrivende.
+- Rettssikkerheten til næringsdrivende må styrkes.
+- Arbeidsgiver skal ikke fungere som innkrevingssentral for det offentlige.
+- Organisasjonsfriheten skal etterleves som et ukrenkelig prinsipp.
+
+### 5.2. Arbeidsliv
+
+Piratpartiet ønsker et trygt og anstendig arbeidsliv. Samtidig må vi passe på at regelverket ikke blir et hinder for bedriftens muligheter til vekst og verdiskaping. Spillereglene i arbeidsmiljøloven må være like for alle bedrifter. Fremforhandlede ordninger i en hovedbedrift på et prosjekt må også gjelde for deres underleverandører, uavhengig av om de er organisert eller ikke. Uorganiserte bedrifter må også få muligheten til å forhandle med sine ansatte om unntak i lovens bestemmelser der det gis adgang for dette, så fremt arbeidstilsynet godkjenner avtalen.
+
+#### Piratpartiet mener at:
+
+- Fremforhandlede ordninger i en hovedbedrift må også gjelde for underleverandører på samme prosjekt.
+- Der loven åpner for det, bør arbeidstaker og arbeidsgiver i en uorganisert bedrift få anledning til avtale avvik fra arbeidsmiljølovens bestemmelser.
+- Strengere straffer skal anvendes ved grove brudd på arbeidsmiljøloven.
+
+### 5.3. Skatt og rammevilkår
+
+Å skape flere nye jobber er det viktigste målet for den økonomiske politikken. Skaper vi flere nye jobber, øker vi skatteinntektene, noe som er forutsetning for å finansiere vår felles velferd.
+
+Piratpartiet mener at veksten i norsk næringsliv må komme fra de små og mellomstore bedriftene. I dag sysselsetter disse bedriftene over halvparten av alle arbeidstakere og produserer 4 av 10 kroner i total verdiskaping. Hvis alle norske foretak med 1-20 ansatte fikk en ansatt til, ville vi fått 165 000 nye arbeidsplasser. Det er flere arbeidsplasser enn vi har arbeidsledige.
+
+Norske små og mellomstore bedrifter er avhengig av norsk kapital for å vokse. Skal flere bedrifter lykkes og arbeidsplasser sikres, må det bli lettere for bedriftene å få tilgang på kapital for å investere.
+
+#### Piratpartiet mener at:
+
+- Det må innføres skatteincentiver for å investere i småbedrifter og gründerselskaper.
+- Skatt på opsjoner for ansatte utsettes til realisasjonstidspunktet for opsjonen.
+- Arbeidsgiveravgiften må reduseres.
+- Tiltak som gründerlån og tilskudd i tidlig fase må styrkes.
+- Delingsøkonomien er positivt, men nye aktører må skattlegges på lik linje med etablerte næringer.
+- Skatterapportering må forenkles for alle bedrifter og tilpasses for aktører i delingsøkonomien.
+- Skattefradrag på hjemmetjenester, lik den svenske ROT og RUT ordningen, bør benyttes som et virkemiddel mot svart arbeid.
+
+### 5.4. Nordisk næringssamarbeid
+
+Vi ønsker å styrke vårt nordiske fellesskap. Norden er vår viktigste handelsområde og norsk næringsliv er tjent med å løse opp i felles grensehindringer og knytte oss tettere sammen gjennom felles samferdselsprosjekter
+
+Åpenhet og samarbeid på tvers av landegrenser er en forutsetning for økonomisk vekst og velferd i det lange løp. Norsk næringsliv står sterkere sammen med våre nordiske og europeiske handelspartnere enn vi gjør alene.
+
+Piratpartiet mener:
+
+Det må innføres en felles nordisk transportplan og en ministerpost for samferdsel/transport/infrastruktur i Nordisk Ministerråd
+Satsing på fellesnordisk bedrifts- og arbeidsmarked og arbeide aktivt mot grensehindringer mellom de nordiske landene
+
+### 5.5. Skattlegging av multinasjonale selskaper og kamp mot skatteparadiser
 
 Inntekter til virksomheter direkte eller indirekte registrert i skatteparadiser beskattes med en ekstra straffeskatt/toll på 50 % uavhengig av andre regnskapsmessige hensyn.
 
@@ -340,16 +392,16 @@ Finansinstitusjoner og juridiske institusjoner som konsulterer sine kunder eller
 
 Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndragelse.
 
-### 5.2 Pensjonspoeng for studenter
+### 5.6. Pensjonspoeng for studenter
 
 Fullført studium skal gi pensjonspoeng. 60 produserte studiepoeng skal gi samme opptjening som en arbeidsinntekt på 1,5 G (grunnbeløpet i folketrygden).
 
-### 5.3 Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter
+### 5.7. Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter
 Det bør igangsettes eksperimenter i begrensede områder med formål å forske på effekter av en universell basisinntekt, universell tilgang til ressurser/tjenester, og lignende konsepter.
 
 Det må innføres en skatt på informasjon og automatisering/robotisering på et nivå tilpasset økt inntjening/produktivitet.
 
-### 5.4 Nye arbeidstidsordninger
+### 5.8. Nye arbeidstidsordninger
 
 Piratpartiet støtter innføring av 6-timers arbeidsdag eller 4-dagers arbeidsuke.
 
