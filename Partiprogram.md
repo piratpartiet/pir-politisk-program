@@ -383,3 +383,25 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Kreve åpen og tilgjengelig informasjon om varedeklarasjoner og produksjonsmetoder slik at forurensere skal betale og forbrukere kan ta velinformerte valg. 
 - Stille strenge krav til bruk av dyr til forskning, og forby bruk av dyr til kosmetiske eller underholdningsmessige formål (eksempelvis tyrefekting). 
 - Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
+
+### 6.1 Støtting av FNs bærekrafsmål
+
+Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål:
+
+- Utrydde alle former for fattigdom i hele verden.
+- Utrydde sult, oppnå matsikkerhet og bedre ernæring, og fremme bærekraftig landbruk.
+- Sikre god helse og fremme livskvalitet for alle, uansett alder.
+- Sikre inkluderende, rettferdig og god utdanning og fremme muligheter for livslang læring for alle.
+- Oppnå likestilling og styrke jenters og kvinners stilling.
+- Sikre bærekraftig vannforvaltning og tilgang til vann og gode sanitærforhold for alle
+- Sikre tilgang til pålitelig, bærekraftig og moderne energi til en overkommelig pris.
+- Fremme varig, inkluderende og bærekraftig økonomisk vekst, full sysselsetting og anstendig arbeid for alle.
+- Bygge robust infrastruktur, fremme inkluderende og bærekraftig industrialisering og bidra til innovasjon.
+- Redusere ulikhet i og mellom land.
+- Gjøre byer og bosettinger inkluderende, trygge, motstandsdyktige og bærekraftige
+- Sikre bærekraftige forbruks- og produksjonsmønstre.
+- Handle umiddelbart for å stoppe klimaendringene og bekjempe konsekvensene av dem.
+- Bevare og bruke hav og marine ressurser på en måte som fremmer bærekraftig utvikling.
+- Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold.
+- Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer.
+- Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling.
