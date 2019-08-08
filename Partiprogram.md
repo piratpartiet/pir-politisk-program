@@ -323,6 +323,8 @@ Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjona
 
 Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
 
+Nettverksbygging og digitalisering gjør helt nye former for produksjon, arbeid og utveksling mulig. På dette fundamentet står Piratpartiet for en fri og sosial økonomisk orden, som har utvikling og velferd for alle mennesker som mål. Økonomisk vekst er ikke det eneste målet for menneskers livskvalitet.
+
 Piratpartiet ønsker å støtte et aktivt og konkurranseutsatt marked med innovasjon og vekst som kan støtte velferd og andre grunnleggende aspekter av samfunnet som utdanning og helsetjenester. Pirater tror hverken på privatisering eller nasjonalisering, men søker heller å finne en balanse mellom disse to og finne ut basert på forskning og offentlig debatt hvilken metode som er mest effektiv.
 
 Piratpartiet ønsker å sikre at internasjonale og globale selskaper som opererer i Norge betaler sin rettferdige andel av sin skatt til Norge siden de har inntekten sin her og fordi de bruker norsk infrastruktur betalt av innbyggerne i Norge.
@@ -337,6 +339,10 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 
 ### Piratpartiet vil:
 
+- Tilrettelegge for nye innovative næringer basert på ny teknologi.
+- Mennesker med gode ideer skal få støtte til å skape sine egne og andres arbeidsplasser gjennom gode støtteordninger for gründere.
+- Gjøre Innovasjon Norge mindre byråkratisk og mindre tunggrodd. Vi ønsker at gründere skal skape verdier, ikke fylle ut papirer og skjemaer.
+- Sikre den frie konkurransen gjennom å motarbeide monopoler og karteller gjennom å gripe inn mot private og offentlige monopoler og motarbeide uheldig konsentrasjon av politisk og økonomisk makt.
 - Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
@@ -431,6 +437,37 @@ Det må også forskes på effekter av nye arbeidstidsordninger på for eksempel 
 Det bør innføres økt arbeidsgiveravgift for bedrifter som benytter arbeidstakere med arbeidstid som overstiger 30 timer per uke fra hoved- eller biarbeidsgiver.
 
 Ansattforhold som ikke fast belastes med høyere arbeidstakeravgift.
+
+### 5.9. Minstelønn
+
+Sosial dumping er til hinder for fri konkurranse under like vilkår og må bekjempes. For at alle mennesker skal kunne ha en verdig eksistens og kunne ta del i samfunnslivet, går vi inn for nasjonal minstelønn.
+
+På sikt vil vi imidlertid ønsker å etablere et system for allmenn inntektssikring som borgerlønn og/eller andre ubyråkratiske ordninger som et alternativ til NAV.
+
+### 5.10. Medbestemmelse i bedrifter
+
+Arbeidsmiljøet er en vesentlig del av menneskers livsmiljø. Piratpartiet ønsker mer bedriftsdemokrati for ansatte og andre interessenter. Vi er positive til ansattes medeierskap og medbestemmelse i private virksomheter.
+
+### 5.11. Fagorganisering
+
+Piratpartiet støtter den frie organisasjonsretten, men også retten til å være uorganisert.
+
+### 5.12. Globalisering
+
+Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sine ubegrensede muligheter blir her en viktig økonomisk faktor, som går langt utover nasjonal politikk. Globalisering skal tjene felles velferd for alle mennesker, og globalisering skal tjene mennesker ikke selskaper.
+
+### 5.13. Økologi
+
+Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi skal bidra til at dette potensialet utnyttes med hensyn til natur og kultur, slik at innovasjoner og arbeidsplasser oppstår over hele landet.
+
+#### Piratpartiet vil:
+
+- Deler av det økonomiske utbyttet ved utnyttelse av naturressurser skal tilfalle samfunnet.
+- Matvarer hører hjemme på bordet, ikke i søppelkasser. Vi ønsker å skape en retningslinje som fører til at foretak i matvare-industrien og -detaljhandelen gjøre varer, som ikke egner seg til salg men fremdeles er spiselig, tilgjengelige for allmennheten.
+
+### 5.14. Forbrukervern
+
+Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
 
 ## 6. Klima og miljø
 
