@@ -324,6 +324,37 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 
+### 5.1 Skattlegging av multinasjonale selskaper og kamp mot skatteparadiser
+
+Inntekter til virksomheter direkte eller indirekte registrert i skatteparadiser beskattes med en ekstra straffeskatt/toll på 50 % uavhengig av andre regnskapsmessige hensyn.
+
+Det må iverksettes en grundig konsekvensutredning av en overgang til kildebeskatning, gjerne i samarbeid med eksisterende internasjonalt arbeid.
+
+Arbeid for å bidra til mer åpenhet og deling av regnskapsinformasjon bør tildeles betydelige ressurser. Eier av skjulte regnskaper og hemmelige formuer bør i økt grad straffes med ekstra straffeskatt i henhold til overtredelsens omfang og størrelse.
+
+Finansinstitusjoner og juridiske institusjoner som konsulterer sine kunder eller ellers er involvert i transaksjoner knyttet til skatteunndragelse må i større grad straffes og bli fratatt lisens.
+
+Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndragelse.
+
+### 5.2 Pensjonspoeng for studenter
+
+Fullført studium skal gi pensjonspoeng. 60 produserte studiepoeng skal gi samme opptjening som en arbeidsinntekt på 1,5 G (grunnbeløpet i folketrygden).
+
+### 5.3 Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter
+Det bør igangsettes eksperimenter i begrensede områder med formål å forske på effekter av en universell basisinntekt, universell tilgang til ressurser/tjenester, og lignende konsepter.
+
+Det må innføres en skatt på informasjon og automatisering/robotisering på et nivå tilpasset økt inntjening/produktivitet.
+
+### 5.4 Nye arbeidstidsordninger
+
+Piratpartiet støtter innføring av 6-timers arbeidsdag eller 4-dagers arbeidsuke.
+
+Det må også forskes på effekter av nye arbeidstidsordninger på for eksempel sykefravær, og det bør i større grad kunne gis tilskudd til bedrifter som tilrettelegger ekstra for ansatte i belastende yrker.
+
+Det bør innføres økt arbeidsgiveravgift for bedrifter som benytter arbeidstakere med arbeidstid som overstiger 30 timer per uke fra hoved- eller biarbeidsgiver.
+
+Ansattforhold som ikke fast belastes med høyere arbeidstakeravgift.
+
 ## 6. Klima og miljø
 
 Vi må bygge et bærekraftig samfunn som ikke bidrar til ødeleggelse av klima og miljø, et samfunn som tilpasser energi- og ressursforbruk til et akseptabelt nivå. 
