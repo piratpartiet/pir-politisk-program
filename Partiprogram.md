@@ -255,6 +255,10 @@ Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller vider
 
 Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjørende for at mennesker skal ta gode valg i dagens og morgendagens samfunn.
 
+For å hindre frafall i skolen er det ønskelig at skolen i større grad tar høyde for elevens behov for tilrettelagt undervisning. Spesielt små barn som kommer rett fra barnehage er særs viktige å følge opp på individuell basis der barns naturlige nysgjerrighet må få utfolde seg i stedet for å bli undertrykket.
+
+Fokus på et sunt læringsmiljø for alle klassetrinn vil være essensielt for trivsel, og videre fokus på lærerens kvalitet vil øke elevens faglige ferdigheter. Skolene må heller ikke tillates å forfalle til gode for midlertidige budsjetthensyn som bare forverres over tid.
+
 #### Piratpartiet vil:
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
