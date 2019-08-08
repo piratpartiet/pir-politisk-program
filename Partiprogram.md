@@ -229,6 +229,16 @@ Små energieffektive biler bør ha lavere årsavgift enn store energi-ineffektiv
 
 Gjennomgangstrafikk fra industri bør i størst mulig grad unngås ved å omorganisere plassering av veier, industri, og andre transportårer over tid.
 
+### 3.3. Nettnøytralitet
+
+Prinsippet om nettnøytralitet må forsterkes ved lov i alle land for å sikre sterke incentiver for investeringer, rettferdig konkurranse og likebehandling av alle i det digitale rommet.
+
+Vi anser informasjonsfrihet som en universell menneskerettighet, og nettnøytralitet et nødvendig middel for det.
+
+Alle må være i stand til å ha tilgang til en internettilkopling som ikke diskriminerer noen som helst tjenester eller konkurrenter. Tiltak for trafikkstyring skal bare tillates i særlige tilfeller, drives på en klar og gjennomsiktig måte, og bare ha tekniske begrunnelser.
+
+Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
+
 ## 4. Kunnskap og kultur
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
