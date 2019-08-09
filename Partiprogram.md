@@ -237,6 +237,13 @@ Piratpartiet vil fjerne elbil-privilegiene (fordeler og subsidier). Piratpartiet
 ### 3.5. Kollektivtransport
 Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billigere enn å benytte bil. På sikt ønsker vi å gjøre kollektivtransport gratis i den forstand at vi betaler for det via skattemidlene.
 
+### 3.6. Forsvaret
+
+Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV).
+Vi støtter også kravet om granskning fra «Styrk Heimevernet».
+
+Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
+
 ## 4. Kunnskap og kultur
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
