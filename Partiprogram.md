@@ -480,6 +480,8 @@ Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til
 
 ## 6. Klima og miljø
 
+Piratpartiet er for en bærekraftig natur- og ressursforvaltning med vekt på rent vann og ren luft for alle samt et styrket vern av uberørt natur og artsmangfoldet.
+
 Vi må bygge et bærekraftig samfunn som ikke bidrar til ødeleggelse av klima og miljø, et samfunn som tilpasser energi- og ressursforbruk til et akseptabelt nivå. 
 
 Det er ikke ansvarlig å eksperimentere med vårt og andre arters eksistensgrunnlag, og derfor legges føre-var prinsippet til grunn for all klima- og miljøpolitikk der ufullstendig kunnskap eller handlinger kan ha potensielle irreversible og/eller katastrofale konsekvenser. Samtidig må en tilstrebe å få mer kunnskap der vår viten er ufullstendig, og en korreksjon av planlegging og adferd må iverksettes basert på fakta og ny viten. 
