@@ -522,6 +522,10 @@ Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere m�
 
 Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der private aktører utfører et arbeid på vegne av offentlige ansvarshavende må det stilles strenge krav til produktkvalitet, intern og ekstern kontroll, personvern, og arbeiderrettigheter. Det må innføres et tak på inntjeningsgrad og lønnsnivå. Arbeidet med digitalisering og automatisering må intensiveres.
 
+Vi anser universell tilgang til medisiner og medisinsk behandling som en menneskerett.
+
+Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandelsordningen. Dårlige tenner er i dag et fattigdomsproblem, og en ordning der tenner blir behandlet på lik linje med resten av kroppen vil avhjelpe dette.
+
 ### Piratpartiet vil:
 
 - Bevare lokale sykehus med akuttkirurgi og fødeavdelinger i hele landet.
