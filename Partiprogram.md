@@ -105,7 +105,13 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
-### 1.4. Reform av helsesektoren
+### 1.4. Boligpolitikk
+
+Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
+
+Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
+
+### 1.5. Reform av helsesektoren
 
 > Piratpartiet ønsker å jobbe for å styrke pasientene og de ansattes rettigheter.
 
