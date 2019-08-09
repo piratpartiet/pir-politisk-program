@@ -450,11 +450,15 @@ Arbeidsmiljøet er en vesentlig del av menneskers livsmiljø. Piratpartiet ønsk
 
 Piratpartiet støtter den frie organisasjonsretten, men også retten til å være uorganisert.
 
-### 5.12. Globalisering
+### 5.12. Pensjon
+
+Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som er lik eller høyere enn prisøkningen i landet. Videre vil vi fjerne frafallet i bruttotrygd for uføre som gifter seg eller blir samboer, da poenget med å bo sammen er å spare utgifter for å øke kjøpekraften.
+
+### 5.13. Globalisering
 
 Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sine ubegrensede muligheter blir her en viktig økonomisk faktor, som går langt utover nasjonal politikk. Globalisering skal tjene felles velferd for alle mennesker, og globalisering skal tjene mennesker ikke selskaper.
 
-### 5.13. Økologi
+### 5.14. Økologi
 
 Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi skal bidra til at dette potensialet utnyttes med hensyn til natur og kultur, slik at innovasjoner og arbeidsplasser oppstår over hele landet.
 
@@ -463,7 +467,7 @@ Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi ska
 - Deler av det økonomiske utbyttet ved utnyttelse av naturressurser skal tilfalle samfunnet.
 - Matvarer hører hjemme på bordet, ikke i søppelkasser. Vi ønsker å skape en retningslinje som fører til at foretak i matvare-industrien og -detaljhandelen gjøre varer, som ikke egner seg til salg men fremdeles er spiselig, tilgjengelige for allmennheten.
 
-### 5.14. Forbrukervern
+### 5.15. Forbrukervern
 
 Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
 
