@@ -24,9 +24,9 @@ Piratpartiet vil stadfeste grunnleggende rettigheter, tilpasset informasjonsalde
 - Kollektive rettigheter, som arbeiderrettigheter og forbrukerrettigheter.
 - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
-## Våre åtte søyler
+## Våre søyler
 
-Våre prinsipper og standpunkter er organisert i åtte søyler:
+Våre prinsipper og standpunkter er organisert i søyler:
 
 - Demokrati og samfunn
 - Individ og personvern
@@ -36,6 +36,7 @@ Våre prinsipper og standpunkter er organisert i åtte søyler:
 - Utdanning
 - Næringsliv og økonomi
 - Klima og miljø
+- Helse
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
@@ -110,36 +111,6 @@ At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges no
 Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
 
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
-
-### 1.5. Reform av helsesektoren
-
-> Piratpartiet ønsker å jobbe for å styrke pasientene og de ansattes rettigheter.
-
-Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere må lokalt få mer faglig frihet og mindre administrativt stress, sentralisering med dårligere pasientsikkerhet som konsekvens bør stanses.
-
-Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der private aktører utfører et arbeid på vegne av offentlige ansvarshavende må det stilles strenge krav til produktkvalitet, intern og ekstern kontroll, personvern, og arbeiderrettigheter. Det må innføres et tak på inntjeningsgrad og lønnsnivå. Arbeidet med digitalisering og automatisering må intensiveres.
-
-#### Piratpartiet vil:
-
-- Bevare lokale sykehus med akuttkirurgi og fødeavdelinger i hele landet.
-- Sørge for at alvorlig syke mennesker får best mulig behandling og medisinering basert på faglige vurderinger.
-- Forbedre varslervern til alle yrkesgrupper.
-- Fjerne foretaksmodellen for sykehus og legge ned de regionale helseforetakene.
-- Endre dagens utvikling der utdaterte metoder for struktur og ledelse ødelegger arbeidsmiljø og behandlingskvalitet.
-- Fristille medisinsk personale i større grad fra unødvendige administrative rutiner.
-- Utrede behov og iverksette tiltak for nye IT-systemer i samråd med egne fagfolk over hele Norge der pasientsikkerhet, personvern, IT-sikkerhet, og effektiv drift må løses på en tilfredsstillende måte.
-- Innføre moderne systemer for digitalisering og automatisering for effektiv drift.
-- Sikre at nye og bedre behandlingsmetoder tas i bruk basert på faglige vurderinger.
-- Redusere ventetid og helsekøer ved utbygging og forbedring av grunnkapasitet i helsesektoren, men også ved innkjøp av eksterne tjenester der både faglige og økonomiske argumenter peker i samme retning.
-- Øke satsing på rehabilitering og habilitering.
-- Bygge sentraliserte miljøer for spesialisthelsetjenester for behov som ikke har akutt prioritet.
-- Fokusere på preventive helsetiltak for befolkningen for å redusere press på fremtidig behandlingskapasitet.
-- Sørge for at eldre kan leve under verdige forhold i egne hjem og på helseinstitusjoner, derav at aktivering, frihet, og medbestemmelse blir en større del av hverdagen på eldrehjem.
-- Bevare ambulansetjenester og annen kriseberedskap over hele landet.
-- Inkludere tannhelse som en del av øvrige offentlige helsetjenester.
-- Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
-- Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
-- Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
 
 ## 2. Individ og personvern
 
@@ -542,3 +513,33 @@ Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk 
 - Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold.
 - Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer.
 - Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling.
+
+## 7. Helse
+
+> Piratpartiet ønsker å jobbe for å styrke pasientene og de helsearbeidernes rettigheter.
+
+Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere må lokalt få mer faglig frihet og mindre administrativt stress, sentralisering med dårligere pasientsikkerhet som konsekvens bør stanses.
+
+Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der private aktører utfører et arbeid på vegne av offentlige ansvarshavende må det stilles strenge krav til produktkvalitet, intern og ekstern kontroll, personvern, og arbeiderrettigheter. Det må innføres et tak på inntjeningsgrad og lønnsnivå. Arbeidet med digitalisering og automatisering må intensiveres.
+
+### Piratpartiet vil:
+
+- Bevare lokale sykehus med akuttkirurgi og fødeavdelinger i hele landet.
+- Sørge for at alvorlig syke mennesker får best mulig behandling og medisinering basert på faglige vurderinger.
+- Forbedre varslervern til alle yrkesgrupper.
+- Fjerne foretaksmodellen for sykehus og legge ned de regionale helseforetakene.
+- Endre dagens utvikling der utdaterte metoder for struktur og ledelse ødelegger arbeidsmiljø og behandlingskvalitet.
+- Fristille medisinsk personale i større grad fra unødvendige administrative rutiner.
+- Utrede behov og iverksette tiltak for nye IT-systemer i samråd med egne fagfolk over hele Norge der pasientsikkerhet, personvern, IT-sikkerhet, og effektiv drift må løses på en tilfredsstillende måte.
+- Innføre moderne systemer for digitalisering og automatisering for effektiv drift.
+- Sikre at nye og bedre behandlingsmetoder tas i bruk basert på faglige vurderinger.
+- Redusere ventetid og helsekøer ved utbygging og forbedring av grunnkapasitet i helsesektoren, men også ved innkjøp av eksterne tjenester der både faglige og økonomiske argumenter peker i samme retning.
+- Øke satsing på rehabilitering og habilitering.
+- Bygge sentraliserte miljøer for spesialisthelsetjenester for behov som ikke har akutt prioritet.
+- Fokusere på preventive helsetiltak for befolkningen for å redusere press på fremtidig behandlingskapasitet.
+- Sørge for at eldre kan leve under verdige forhold i egne hjem og på helseinstitusjoner, derav at aktivering, frihet, og medbestemmelse blir en større del av hverdagen på eldrehjem.
+- Bevare ambulansetjenester og annen kriseberedskap over hele landet.
+- Inkludere tannhelse som en del av øvrige offentlige helsetjenester.
+- Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
+- Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
+- Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
