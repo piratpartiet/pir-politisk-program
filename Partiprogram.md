@@ -271,6 +271,8 @@ For å hindre frafall i skolen er det ønskelig at skolen i større grad tar hø
 
 Fokus på et sunt læringsmiljø for alle klassetrinn vil være essensielt for trivsel, og videre fokus på lærerens kvalitet vil øke elevens faglige ferdigheter. Skolene må heller ikke tillates å forfalle til gode for midlertidige budsjetthensyn som bare forverres over tid.
 
+Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer i utviklingen av lære- og leselyst og digital kompetanse. Opplæringsloven må utvides til å spesifisere at skolebibliotekene skal ha kvalifisert personell tilstede i skoletiden, oppdaterte boksamlinger, og teknologisk utstyr til å utvikle digitale ferdigheter. Det skal være et mål at det er et tett samarbeid mellom lærere og skolebibliotekarer.
+
 #### Piratpartiet vil:
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
@@ -281,6 +283,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 - Skoler skal lære elevene å håndtere ubehagelige opplevelser og innhold som er ment for voksne fremfor å bruke
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
+- Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
 
 ### 4.2. Forskning og innovasjon
 
