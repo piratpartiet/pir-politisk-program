@@ -249,6 +249,9 @@ Gjennomgangstrafikk fra industri bør i størst mulig grad unngås ved å omorga
 
 Piratpartiet vil fjerne elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil, slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
 
+### 3.5. Kollektivtransport
+Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billigere enn å benytte bil. På sikt ønsker vi å gjøre kollektivtransport gratis i den forstand at vi betaler for det via skattemidlene.
+
 ## 4. Kunnskap og kultur
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
