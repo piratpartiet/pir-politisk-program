@@ -547,3 +547,7 @@ Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandels
 - Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
 - Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
 - Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
+
+### 7.1. Ruspolitikk
+
+Piratpartiet stiller seg positiv til å endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser. Piratpartiet ser på rusmisbruk og tilhørende psykiatriske problemer som en del av menneskers helhetlige helseproblemer. Vi vil jobbe for at det lovfestes rett til behandling på riktig nivå og til rett tid, og at offentlige behandlingstilbud bygges opp innen rus og psykiatri for å møte de reelle behovene. Psykisk helse må likestilles med somatisk helse, uten diskriminering.
