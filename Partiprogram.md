@@ -524,8 +524,6 @@ Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der privat
 
 Vi anser universell tilgang til medisiner og medisinsk behandling som en menneskerett.
 
-Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandelsordningen. Dårlige tenner er i dag et fattigdomsproblem, og en ordning der tenner blir behandlet på lik linje med resten av kroppen vil avhjelpe dette.
-
 ### Piratpartiet vil:
 
 - Bevare lokale sykehus med akuttkirurgi og fødeavdelinger i hele landet.
@@ -551,3 +549,25 @@ Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandels
 ### 7.1. Ruspolitikk
 
 Piratpartiet stiller seg positiv til å endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser. Piratpartiet ser på rusmisbruk og tilhørende psykiatriske problemer som en del av menneskers helhetlige helseproblemer. Vi vil jobbe for at det lovfestes rett til behandling på riktig nivå og til rett tid, og at offentlige behandlingstilbud bygges opp innen rus og psykiatri for å møte de reelle behovene. Psykisk helse må likestilles med somatisk helse, uten diskriminering.
+
+### 7.2. Tannhelse
+
+Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandelsordningen. Dårlige tenner er i dag et fattigdomsproblem, og en ordning der tenner blir behandlet på lik linje med resten av kroppen vil avhjelpe dette.
+
+### 7.3. Funksjonshemmede
+
+Piratpartiet støtter alle ordninger som er nødvendige for at våre innbyggere skal kunne leve et verdig liv, slik som nasjonal dør-til-dør-transport for funksjonshemmende.
+
+Vi ønsker at lovproposisjonen om retten til brukerstyrt personlig assistanse (BPA) skal være førende for tildelingen av dette, ikke en byråkratisk tidsgrense.
+
+Piratpartiet mener at vi må lytte til dem som føler problemet med mobbing av funksjonshemmede på kroppen. Piratpartiet ønsker at grupper med ulike funksjonshemminger skal få en skolehverdag tilrettelagt sine særskilte behov. For å sikre at mobbing ikke er et problem må man sikre gode kunnskaper og toleranse i samfunnet. Vi tror mye av mobbingen generelt kommer av manglende toleranse for annerledeshet. Den toleransen og kjærligheten man ser hos små barn må dyrkes og støttes, slik at man ikke mister den på veien til voksenlivet.
+
+### 7.4. Synsrehabilitering
+Dessverre tar det alt for lang tid før hjelp i form av synsrehabilitering blir gitt og sannsynligvis skyldes dette at man ikke blir fanget opp av systemet. Årsakene til dette er sammensatt, men handler blant annet om kompetanse særlig i kommunen og et manglende nasjonalt synsregister.
+
+Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksetting av konkrete forbedringstiltak for eksempel i form av informasjonstiltak overfor fastlegene slik at disse selv har og kan videreformidle korrekt informasjon.
+
+Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
+
+### 7.5. Omskjæring
+Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
