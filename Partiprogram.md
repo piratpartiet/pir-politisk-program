@@ -307,6 +307,10 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 ### 4.3 Spill og e-sport
 Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spill som kultur og regulering av gamblinglignende mekanismer. Piratpartiet ser et stort ubenyttet potensiale for økt kultur og næring i dataspill og e-sport, og vil derfor forbedre rammevilkår og øke tilskudd til aktivitet, utdanning, og oppstartsvirksomhet.
 
+### 4.4 Idrett
+
+Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
+
 #### Piratpartiet vil:
 
 Likestille støtte/tilskudd til ikke-kommersielle miljøer, aktiviteter og organisasjoner som driver med dataspill med støtte/tilskudd til annen kultur, sport og idrett etter tilsvarende kriterier.
