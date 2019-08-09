@@ -79,7 +79,15 @@ En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet
 
 Flytende demokrati i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved flytende demokrati er at det medfører en økt gjennomsiktighet i den politiske prosessen.
 
-### 1.2. Innvandrings- og asylpolitikk 
+### 1.2. Kommunesammenslåing
+
+Piratpartiet mener at kommunesammenslåing skal være frivillig og støttet av innbyggerne i alle de involverte kommunene med folkeavstemming. Tilsvarende med fylkessammenslåing. I forkant av slike avstemninger skal innbyggerne være saklig informerte om fordeler og ulemper både med sammenslåing og ingen sammenslåing.
+
+Piratpartiet overlater til hvert enkelt lokallag å anbefale sammenslåing og/eller arrangering av folkeavstemning om det. Argumentet for dette er at det er så mange lokale hensyn å ta at det er lite hensiktsmessig, og direkte vanskelig, å være kun for eller kun imot kommunesammenslåing uten at en ender opp med å overstyre viktige lokale hensyn.
+
+Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammenslåing. Faktorer som er relevante for vurdering av sammenslåing er lokale forhold som boligmarked, boligmønster, arbeidsmarked, eksisterende infrastruktur og behov for ny infrastruktur. Dette må samles som ett sammenslått hensyn som ses opp mot behovet for å bygge en kommuneadministrasjon og kommunaldrift som er stor nok til å gi et fullverdig kommunalt tilbud til alle kommunens innbyggere.
+
+### 1.3. Innvandrings- og asylpolitikk 
 
 Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser. 
 
@@ -97,7 +105,7 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
-### 1.3. Reform av helsesektoren
+### 1.4. Reform av helsesektoren
 
 > Piratpartiet ønsker å jobbe for å styrke pasientene og de ansattes rettigheter.
 
