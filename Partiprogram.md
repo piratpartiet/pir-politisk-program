@@ -224,7 +224,17 @@ Norge.
 Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
 analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
-### 3.2. Reform av finansiering av veibygging/-vedlikehold og kollektivtransport
+### 3.2. Nettnøytralitet
+
+Prinsippet om nettnøytralitet må forsterkes ved lov i alle land for å sikre sterke incentiver for investeringer, rettferdig konkurranse og likebehandling av alle i det digitale rommet.
+
+Vi anser informasjonsfrihet som en universell menneskerettighet, og nettnøytralitet et nødvendig middel for det.
+
+Alle må være i stand til å ha tilgang til en internettilkopling som ikke diskriminerer noen som helst tjenester eller konkurrenter. Tiltak for trafikkstyring skal bare tillates i særlige tilfeller, drives på en klar og gjennomsiktig måte, og bare ha tekniske begrunnelser.
+
+Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
+
+### 3.3. Reform av finansiering av veibygging/-vedlikehold og kollektivtransport
 Dagens bompengeordning må avvikles, finansiering av veiutbygging/drift/kollektivtransport må skje via skattesystemet.
 
 Piratpartiet foreslår å endre § 4 i yrkestransportlova slik at privatpersoner fritt kan tilby transport mot vederlag. Inntekter på inntil 50.000,– NOK unntas fra mva fra persontransport, men skattlegges som vanlig personinntekt. Inntekter utover 50.000,– NOK vil kreve registrering av virksomhet etter vanlige regler.
@@ -235,15 +245,9 @@ Små energieffektive biler bør ha lavere årsavgift enn store energi-ineffektiv
 
 Gjennomgangstrafikk fra industri bør i størst mulig grad unngås ved å omorganisere plassering av veier, industri, og andre transportårer over tid.
 
-### 3.3. Nettnøytralitet
+### 3.4. Fjerning av elbil-privilegiene
 
-Prinsippet om nettnøytralitet må forsterkes ved lov i alle land for å sikre sterke incentiver for investeringer, rettferdig konkurranse og likebehandling av alle i det digitale rommet.
-
-Vi anser informasjonsfrihet som en universell menneskerettighet, og nettnøytralitet et nødvendig middel for det.
-
-Alle må være i stand til å ha tilgang til en internettilkopling som ikke diskriminerer noen som helst tjenester eller konkurrenter. Tiltak for trafikkstyring skal bare tillates i særlige tilfeller, drives på en klar og gjennomsiktig måte, og bare ha tekniske begrunnelser.
-
-Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
+Piratpartiet vil fjerne elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil, slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
 
 ## 4. Kunnskap og kultur
 
