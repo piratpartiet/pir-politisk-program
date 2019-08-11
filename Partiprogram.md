@@ -1,4 +1,4 @@
-# Piratpartiets kjerneprogram
+# Piratpartiets politiske program
 
 Vedtatt 17. mars 2013. Sist oppdatert 28. april 2019.
 
