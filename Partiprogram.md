@@ -1,6 +1,6 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 9. desember 2018.
+Vedtatt 17. mars 2013. Sist oppdatert 28. april 2019.
 
 ## Piratkodeksen
 
