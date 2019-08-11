@@ -26,17 +26,51 @@ Piratpartiet vil stadfeste grunnleggende rettigheter, tilpasset informasjonsalde
 
 ## Våre søyler
 
-Våre prinsipper og standpunkter er organisert i søyler:
-
-- Demokrati og samfunn
-- Individ og personvern
-- Kommunikasjon og infrastruktur
-- Kunnskap og kultur
-- Forskning og innovasjon
-- Utdanning
-- Næringsliv og økonomi
-- Klima og miljø
-- Helse
+Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn i seksjoner:
+  
+  - [1. Demokrati og samfunn](#1-demokrati-og-samfunn)
+    - [1.1. Flytende demokrati](#11-flytende-demokrati)
+    - [1.2. Kommunesammenslåing](#12-kommunesammensl%c3%a5ing)
+    - [1.3. Innvandrings- og asylpolitikk](#13-innvandrings--og-asylpolitikk)
+    - [1.4. Boligpolitikk](#14-boligpolitikk)
+  - [2. Individ og personvern](#2-individ-og-personvern)
+  - [3. Kommunikasjon og infrastruktur](#3-kommunikasjon-og-infrastruktur)
+    - [3.1. Energipolitikk](#31-energipolitikk)
+    - [3.2. Nettnøytralitet](#32-nettn%c3%b8ytralitet)
+    - [3.3. Reform av finansiering til veibygging/-vedlikehold og kollektivtransport](#33-reform-av-finansiering-til-veibygging-vedlikehold-og-kollektivtransport)
+    - [3.4. Fjerning av elbil-privilegiene](#34-fjerning-av-elbil-privilegiene)
+    - [3.5. Kollektivtransport](#35-kollektivtransport)
+    - [3.6. Forsvaret](#36-forsvaret)
+  - [4. Kunnskap og kultur](#4-kunnskap-og-kultur)
+    - [4.1. Utdanning](#41-utdanning)
+    - [4.2. Forskning og innovasjon](#42-forskning-og-innovasjon)
+    - [4.3 Spill og e-sport](#43-spill-og-e-sport)
+    - [4.4 Idrett](#44-idrett)
+  - [5. Næringsliv og økonomi](#5-n%c3%a6ringsliv-og-%c3%b8konomi)
+    - [5.1. Bedre rettigheter for næringsdrivende og gründere](#51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere)
+    - [5.2. Arbeidsliv](#52-arbeidsliv)
+    - [5.3. Skatt og rammevilkår](#53-skatt-og-rammevilk%c3%a5r)
+    - [5.4. Nordisk næringssamarbeid](#54-nordisk-n%c3%a6ringssamarbeid)
+    - [5.5. Skattlegging av multinasjonale selskaper og kamp mot skatteparadiser](#55-skattlegging-av-multinasjonale-selskaper-og-kamp-mot-skatteparadiser)
+    - [5.6. Pensjonspoeng for studenter](#56-pensjonspoeng-for-studenter)
+    - [5.7. Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter](#57-igangsetting-av-begrensede-eksperiment-med-borgerl%c3%b8nn-og-lignende-konsepter)
+    - [5.8. Nye arbeidstidsordninger](#58-nye-arbeidstidsordninger)
+    - [5.9. Minstelønn](#59-minstel%c3%b8nn)
+    - [5.10. Medbestemmelse i bedrifter](#510-medbestemmelse-i-bedrifter)
+    - [5.11. Fagorganisering](#511-fagorganisering)
+    - [5.12. Pensjon](#512-pensjon)
+    - [5.13. Globalisering](#513-globalisering)
+    - [5.14. Økologi](#514-%c3%98kologi)
+    - [5.15. Forbrukervern](#515-forbrukervern)
+  - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
+    - [6.1 Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
+  - [7. Helse](#7-helse)
+    - [Piratpartiet vil:](#piratpartiet-vil-10)
+    - [7.1. Ruspolitikk](#71-ruspolitikk)
+    - [7.2. Tannhelse](#72-tannhelse)
+    - [7.3. Funksjonshemmede](#73-funksjonshemmede)
+    - [7.4. Synsrehabilitering](#74-synsrehabilitering)
+    - [7.5. Omskjæring](#75-omskj%c3%a6ring)
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
@@ -219,7 +253,7 @@ Alle må være i stand til å ha tilgang til en internettilkopling som ikke disk
 
 Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
 
-### 3.3. Reform av finansiering av veibygging/-vedlikehold og kollektivtransport
+### 3.3. Reform av finansiering til veibygging/-vedlikehold og kollektivtransport
 Dagens bompengeordning må avvikles, finansiering av veiutbygging/drift/kollektivtransport må skje via skattesystemet.
 
 Piratpartiet foreslår å endre § 4 i yrkestransportlova slik at privatpersoner fritt kan tilby transport mot vederlag. Inntekter på inntil 50.000,– NOK unntas fra mva fra persontransport, men skattlegges som vanlig personinntekt. Inntekter utover 50.000,– NOK vil kreve registrering av virksomhet etter vanlige regler.
