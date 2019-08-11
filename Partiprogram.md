@@ -65,7 +65,6 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
   - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
     - [6.1 Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
   - [7. Helse](#7-helse)
-    - [Piratpartiet vil:](#piratpartiet-vil-10)
     - [7.1. Ruspolitikk](#71-ruspolitikk)
     - [7.2. Tannhelse](#72-tannhelse)
     - [7.3. Funksjonshemmede](#73-funksjonshemmede)
@@ -73,6 +72,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [7.5. Omskjæring](#75-omskj%c3%a6ring)
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
+
+<div id=1-demokrati-og-samfunn />
 
 ## 1. Demokrati og samfunn
 
@@ -102,6 +103,8 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
 
+<div id="#11-flytende-demokrati" />
+
 ### 1.1. Flytende demokrati
 
 Demokratiets verdier ligger i å sikre frihet. Når demokratiet ikke gjør det, mister systemet sin legitimitet.
@@ -114,6 +117,8 @@ En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet
 
 Flytende demokrati i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved flytende demokrati er at det medfører en økt gjennomsiktighet i den politiske prosessen.
 
+<div id="#12-kommunesammensl%c3%a5ing" />
+
 ### 1.2. Kommunesammenslåing
 
 Piratpartiet mener at kommunesammenslåing skal være frivillig og støttet av innbyggerne i alle de involverte kommunene med folkeavstemming. Tilsvarende med fylkessammenslåing. I forkant av slike avstemninger skal innbyggerne være saklig informerte om fordeler og ulemper både med sammenslåing og ingen sammenslåing.
@@ -121,6 +126,8 @@ Piratpartiet mener at kommunesammenslåing skal være frivillig og støttet av i
 Piratpartiet overlater til hvert enkelt lokallag å anbefale sammenslåing og/eller arrangering av folkeavstemning om det. Argumentet for dette er at det er så mange lokale hensyn å ta at det er lite hensiktsmessig, og direkte vanskelig, å være kun for eller kun imot kommunesammenslåing uten at en ender opp med å overstyre viktige lokale hensyn.
 
 Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammenslåing. Faktorer som er relevante for vurdering av sammenslåing er lokale forhold som boligmarked, boligmønster, arbeidsmarked, eksisterende infrastruktur og behov for ny infrastruktur. Dette må samles som ett sammenslått hensyn som ses opp mot behovet for å bygge en kommuneadministrasjon og kommunaldrift som er stor nok til å gi et fullverdig kommunalt tilbud til alle kommunens innbyggere.
+
+<div id="#13-innvandrings--og-asylpolitikk" />
 
 ### 1.3. Innvandrings- og asylpolitikk 
 
@@ -140,11 +147,15 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
+<div id="#14-boligpolitikk" />
+
 ### 1.4. Boligpolitikk
 
 Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
 
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
+
+<div id="#2-individ-og-personvern" />
 
 ## 2. Individ og personvern
 
@@ -176,6 +187,8 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
+
+<div id="#3-kommunikasjon-og-infrastruktur" />
 
 ## 3. Kommunikasjon og infrastruktur
 
@@ -220,6 +233,8 @@ rådighet for disse instansene.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
 - Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
 
+<div id="#31-energipolitikk" />
+
 ### 3.1. Energipolitikk
 
 #### Eksport og eksportkabler
@@ -243,6 +258,8 @@ Norge.
 Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
 analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
+<div id="#32-nettn%c3%b8ytralitet" />
+
 ### 3.2. Nettnøytralitet
 
 Prinsippet om nettnøytralitet må forsterkes ved lov i alle land for å sikre sterke incentiver for investeringer, rettferdig konkurranse og likebehandling av alle i det digitale rommet.
@@ -252,6 +269,8 @@ Vi anser informasjonsfrihet som en universell menneskerettighet, og nettnøytral
 Alle må være i stand til å ha tilgang til en internettilkopling som ikke diskriminerer noen som helst tjenester eller konkurrenter. Tiltak for trafikkstyring skal bare tillates i særlige tilfeller, drives på en klar og gjennomsiktig måte, og bare ha tekniske begrunnelser.
 
 Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
+
+<div id="#33-reform-av-finansiering-til-veibygging-vedlikehold-og-kollektivtransport" />
 
 ### 3.3. Reform av finansiering til veibygging/-vedlikehold og kollektivtransport
 Dagens bompengeordning må avvikles, finansiering av veiutbygging/drift/kollektivtransport må skje via skattesystemet.
@@ -264,12 +283,18 @@ Små energieffektive biler bør ha lavere årsavgift enn store energi-ineffektiv
 
 Gjennomgangstrafikk fra industri bør i størst mulig grad unngås ved å omorganisere plassering av veier, industri, og andre transportårer over tid.
 
+<div id="#34-fjerning-av-elbil-privilegiene" />
+
 ### 3.4. Fjerning av elbil-privilegiene
 
 Piratpartiet vil fjerne elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil, slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
 
+<div id="#35-kollektivtransport" />
+
 ### 3.5. Kollektivtransport
 Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billigere enn å benytte bil. På sikt ønsker vi å gjøre kollektivtransport gratis i den forstand at vi betaler for det via skattemidlene.
+
+<div id="#36-forsvaret" />
 
 ### 3.6. Forsvaret
 
@@ -277,6 +302,8 @@ Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøri
 Vi støtter også kravet om granskning fra «Styrk Heimevernet».
 
 Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
+
+<div id="#4-kunnskap-og-kultur" />
 
 ## 4. Kunnskap og kultur
 
@@ -299,6 +326,8 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Innføre krav om at offentlig ansatte skal bidra med gjenbrukbart innhold på nettet i relevante arenaer.
 - Kreve bruk av programvare som er lisensiert med frie eller åpen-kildekode-lisenser i offentlig sektor.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
+
+<div id="#41-utdanning" />
 
 ### 4.1. Utdanning
 
@@ -326,6 +355,8 @@ uavhengig av hvor de bor og hvilken skole de går på.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
 
+<div id="#42-forskning-og-innovasjon" />
+
 ### 4.2. Forskning og innovasjon
 
 > Piratpartiet tror på forskning, utvikling og deling av resultater.
@@ -348,8 +379,12 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
 - Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
 
+<div id="#43-spill-og-e-sport" />
+
 ### 4.3 Spill og e-sport
 Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spill som kultur og regulering av gamblinglignende mekanismer. Piratpartiet ser et stort ubenyttet potensiale for økt kultur og næring i dataspill og e-sport, og vil derfor forbedre rammevilkår og øke tilskudd til aktivitet, utdanning, og oppstartsvirksomhet.
+
+<div id="#44-idrett" />
 
 ### 4.4 Idrett
 
@@ -364,6 +399,8 @@ Opprette lokale idefabrikker/kompetansesenter på egnede steder (f. eks. offentl
 Satse på utbygging av norskeide datasenter for mange ulike formål, inkludert men ikke begrenset til dataspill.
 Videreføre og forbedre eksisterende satsning på koding i skolen, og øke tilskudd til etterutdanning/kursing av lærere.
 Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjonalt og internasjonalt mot gambling-lignende-mekanismer i dataspill. Ingen støtte til markedsføring eller utvikling må gis til selskaper som tjener penger slike mekanismer internt i spill, heller ikke spill med interne betalings-mekanismer for å oppnå fordeler eller motvirke ulemper.
+
+<div id="#5-n%c3%a6ringsliv-og-%c3%b8konomi" />
 
 ## 5. Næringsliv og økonomi
 
@@ -399,6 +436,8 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
 - Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 
+<div id="#51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere" />
+
 ### 5.1. Bedre rettigheter for næringsdrivende og gründere
 
 For at flere skal våge å starte for seg selv, må vi harmonisere regelverket med selvstendig næringsdrivende og fast ansatte. Piratpartiet vil derfor arbeide for gode, forutsigbare og sosiale rettigheter for næringsdrivende.
@@ -412,6 +451,8 @@ Selvstendig næringsdrivende fortjener bedre sosiale rettigheter. De har dårlig
 - Arbeidsgiver skal ikke fungere som innkrevingssentral for det offentlige.
 - Organisasjonsfriheten skal etterleves som et ukrenkelig prinsipp.
 
+<div id="#52-arbeidsliv" />
+
 ### 5.2. Arbeidsliv
 
 Piratpartiet ønsker et trygt og anstendig arbeidsliv. Samtidig må vi passe på at regelverket ikke blir et hinder for bedriftens muligheter til vekst og verdiskaping. Spillereglene i arbeidsmiljøloven må være like for alle bedrifter. Fremforhandlede ordninger i en hovedbedrift på et prosjekt må også gjelde for deres underleverandører, uavhengig av om de er organisert eller ikke. Uorganiserte bedrifter må også få muligheten til å forhandle med sine ansatte om unntak i lovens bestemmelser der det gis adgang for dette, så fremt arbeidstilsynet godkjenner avtalen.
@@ -421,6 +462,8 @@ Piratpartiet ønsker et trygt og anstendig arbeidsliv. Samtidig må vi passe på
 - Fremforhandlede ordninger i en hovedbedrift må også gjelde for underleverandører på samme prosjekt.
 - Der loven åpner for det, bør arbeidstaker og arbeidsgiver i en uorganisert bedrift få anledning til avtale avvik fra arbeidsmiljølovens bestemmelser.
 - Strengere straffer skal anvendes ved grove brudd på arbeidsmiljøloven.
+
+<div id="#53-skatt-og-rammevilk%c3%a5r" />
 
 ### 5.3. Skatt og rammevilkår
 
@@ -440,6 +483,8 @@ Norske små og mellomstore bedrifter er avhengig av norsk kapital for å vokse. 
 - Skatterapportering må forenkles for alle bedrifter og tilpasses for aktører i delingsøkonomien.
 - Skattefradrag på hjemmetjenester, lik den svenske ROT og RUT ordningen, bør benyttes som et virkemiddel mot svart arbeid.
 
+<div id="#54-nordisk-n%c3%a6ringssamarbeid" />
+
 ### 5.4. Nordisk næringssamarbeid
 
 Vi ønsker å styrke vårt nordiske fellesskap. Norden er vår viktigste handelsområde og norsk næringsliv er tjent med å løse opp i felles grensehindringer og knytte oss tettere sammen gjennom felles samferdselsprosjekter
@@ -450,6 +495,8 @@ Piratpartiet mener:
 
 Det må innføres en felles nordisk transportplan og en ministerpost for samferdsel/transport/infrastruktur i Nordisk Ministerråd
 Satsing på fellesnordisk bedrifts- og arbeidsmarked og arbeide aktivt mot grensehindringer mellom de nordiske landene
+
+<div id="#55-skattlegging-av-multinasjonale-selskaper-og-kamp-mot-skatteparadiser" />
 
 ### 5.5. Skattlegging av multinasjonale selskaper og kamp mot skatteparadiser
 
@@ -463,9 +510,13 @@ Finansinstitusjoner og juridiske institusjoner som konsulterer sine kunder eller
 
 Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndragelse.
 
+<div id="#56-pensjonspoeng-for-studenter" />
+
 ### 5.6. Pensjonspoeng for studenter
 
 Fullført studium skal gi pensjonspoeng. 60 produserte studiepoeng skal gi samme opptjening som en arbeidsinntekt på 1,5 G (grunnbeløpet i folketrygden).
+
+<div id="#57-igangsetting-av-begrensede-eksperiment-med-borgerl%c3%b8nn-og-lignende-konsepter" />
 
 ### 5.7. Igangsetting av begrensede eksperiment med borgerlønn og lignende konsepter
 Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske ordninger som en erstatning for dagens NAV-system.
@@ -473,6 +524,8 @@ Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske 
 Det bør igangsettes eksperimenter i begrensede områder med formål å forske på effekter av en universell basisinntekt, universell tilgang til ressurser/tjenester, og lignende konsepter.
 
 Det må innføres en skatt på informasjon og automatisering/robotisering på et nivå tilpasset økt inntjening/produktivitet.
+
+<div id="#58-nye-arbeidstidsordninger" />
 
 ### 5.8. Nye arbeidstidsordninger
 
@@ -484,27 +537,39 @@ Det bør innføres økt arbeidsgiveravgift for bedrifter som benytter arbeidstak
 
 Ansattforhold som ikke fast belastes med høyere arbeidstakeravgift.
 
+<div id="#59-minstel%c3%b8nn" />
+
 ### 5.9. Minstelønn
 
 Sosial dumping er til hinder for fri konkurranse under like vilkår og må bekjempes. For at alle mennesker skal kunne ha en verdig eksistens og kunne ta del i samfunnslivet, går vi inn for nasjonal minstelønn.
 
 På sikt vil vi imidlertid ønsker å etablere et system for allmenn inntektssikring som borgerlønn og/eller andre ubyråkratiske ordninger som et alternativ til NAV.
 
+<div id="#510-medbestemmelse-i-bedrifter" />
+
 ### 5.10. Medbestemmelse i bedrifter
 
 Arbeidsmiljøet er en vesentlig del av menneskers livsmiljø. Piratpartiet ønsker mer bedriftsdemokrati for ansatte og andre interessenter. Vi er positive til ansattes medeierskap og medbestemmelse i private virksomheter.
+
+<div id="#511-fagorganisering" />
 
 ### 5.11. Fagorganisering
 
 Piratpartiet støtter den frie organisasjonsretten, men også retten til å være uorganisert.
 
+<div id="#512-pensjon" />
+
 ### 5.12. Pensjon
 
 Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som er lik eller høyere enn prisøkningen i landet. Videre vil vi fjerne frafallet i bruttotrygd for uføre som gifter seg eller blir samboer, da poenget med å bo sammen er å spare utgifter for å øke kjøpekraften.
 
+<div id="#513-globalisering" />
+
 ### 5.13. Globalisering
 
 Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sine ubegrensede muligheter blir her en viktig økonomisk faktor, som går langt utover nasjonal politikk. Globalisering skal tjene felles velferd for alle mennesker, og globalisering skal tjene mennesker ikke selskaper.
+
+<div id="#514-%c3%98kologi" />
 
 ### 5.14. Økologi
 
@@ -515,9 +580,13 @@ Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi ska
 - Deler av det økonomiske utbyttet ved utnyttelse av naturressurser skal tilfalle samfunnet.
 - Matvarer hører hjemme på bordet, ikke i søppelkasser. Vi ønsker å skape en retningslinje som fører til at foretak i matvare-industrien og -detaljhandelen gjøre varer, som ikke egner seg til salg men fremdeles er spiselig, tilgjengelige for allmennheten.
 
+<div id="#515-forbrukervern" />
+
 ### 5.15. Forbrukervern
 
 Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
+
+<div id="#6-klima-og-milj%c3%b8" />
 
 ## 6. Klima og miljø
 
@@ -546,6 +615,8 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Stille strenge krav til bruk av dyr til forskning, og forby bruk av dyr til kosmetiske eller underholdningsmessige formål (eksempelvis tyrefekting). 
 - Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
 
+<div id="#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
+
 ### 6.1 Støtting av FNs bærekrafsmål
 
 Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål:
@@ -567,6 +638,8 @@ Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk 
 - Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold.
 - Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer.
 - Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling.
+
+<div id="#7-helse" />
 
 ## 7. Helse
 
@@ -600,13 +673,19 @@ Vi anser universell tilgang til medisiner og medisinsk behandling som en mennesk
 - Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
 - Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
 
+<div id="#71-ruspolitikk" />
+
 ### 7.1. Ruspolitikk
 
 Piratpartiet stiller seg positiv til å endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser. Piratpartiet ser på rusmisbruk og tilhørende psykiatriske problemer som en del av menneskers helhetlige helseproblemer. Vi vil jobbe for at det lovfestes rett til behandling på riktig nivå og til rett tid, og at offentlige behandlingstilbud bygges opp innen rus og psykiatri for å møte de reelle behovene. Psykisk helse må likestilles med somatisk helse, uten diskriminering.
 
+<div id="#72-tannhelse" />
+
 ### 7.2. Tannhelse
 
 Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandelsordningen. Dårlige tenner er i dag et fattigdomsproblem, og en ordning der tenner blir behandlet på lik linje med resten av kroppen vil avhjelpe dette.
+
+<div id="#73-funksjonshemmede" />
 
 ### 7.3. Funksjonshemmede
 
@@ -616,12 +695,16 @@ Vi ønsker at lovproposisjonen om retten til brukerstyrt personlig assistanse (B
 
 Piratpartiet mener at vi må lytte til dem som føler problemet med mobbing av funksjonshemmede på kroppen. Piratpartiet ønsker at grupper med ulike funksjonshemminger skal få en skolehverdag tilrettelagt sine særskilte behov. For å sikre at mobbing ikke er et problem må man sikre gode kunnskaper og toleranse i samfunnet. Vi tror mye av mobbingen generelt kommer av manglende toleranse for annerledeshet. Den toleransen og kjærligheten man ser hos små barn må dyrkes og støttes, slik at man ikke mister den på veien til voksenlivet.
 
+<div id="#74-synsrehabilitering" />
+
 ### 7.4. Synsrehabilitering
 Dessverre tar det alt for lang tid før hjelp i form av synsrehabilitering blir gitt og sannsynligvis skyldes dette at man ikke blir fanget opp av systemet. Årsakene til dette er sammensatt, men handler blant annet om kompetanse særlig i kommunen og et manglende nasjonalt synsregister.
 
 Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksetting av konkrete forbedringstiltak for eksempel i form av informasjonstiltak overfor fastlegene slik at disse selv har og kan videreformidle korrekt informasjon.
 
 Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
+
+<div id="#75-omskj%c3%a6ring" />
 
 ### 7.5. Omskjæring
 Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
