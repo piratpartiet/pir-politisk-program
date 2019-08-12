@@ -183,8 +183,8 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Ikke tillate «nakenskanning» på flyplasser.
 - Gjøre kildevernet absolutt.
 - Styrke ytrings- og varslingsfrihet. Gjengjeldelse fra arbeidsgiver straffes med fengsel i inntil seks år.
-- Forsvare retten til bruk av anonyme sosiale nettverk og kommunikasjonstjenester
-- Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon
+- Forsvare retten til bruk av anonyme sosiale nettverk og kommunikasjonstjenester.
+- Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon.
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 
@@ -220,14 +220,9 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 - Reservere frekvensområder til fri benyttelse (eksempler: Wi-Fi, «white spaces»).
 - Kreve bruk av leverandørnøytrale fil- og dataformater i offentlig sektor.
 - Kreve at alt av offentlig finansierte kart gjøres fritt tilgjengelig for muligheter for gjenbruk.
-- Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med
-de nasjonale offentlige tjenestene.
-- Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg
-digitalisering.
-- Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre
-prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive
-personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til
-rådighet for disse instansene.
+- Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med de nasjonale offentlige tjenestene.
+- Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg digitalisering.
+- Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til rådighet for disse instansene.
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
@@ -238,25 +233,19 @@ rådighet for disse instansene.
 ### 3.1. Energipolitikk
 
 #### Eksport og eksportkabler
-Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England.
-Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
+Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England. Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
 
 #### Kraftutbygging
-I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling
-av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
+I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
 
 #### Alternative energikilder
-Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges
-mer forskningsmidler til dette.
+Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges mer forskningsmidler til dette.
 
 #### Ny strømtariff
-Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert.
-Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i
-Norge.
+Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert. Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i Norge.
 
 #### Lovgivning og strømhandel
-Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
-analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
+Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
 <div id="32-nettn%c3%b8ytralitet" />
 
@@ -298,8 +287,7 @@ Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billi
 
 ### 3.6. Forsvaret
 
-Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV).
-Vi støtter også kravet om granskning fra «Styrk Heimevernet».
+Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV). Vi støtter også kravet om granskning fra «Styrk Heimevernet».
 
 Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
 
@@ -331,7 +319,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ### 4.1. Utdanning
 
-Piratpartiet mener at utdanningssystemet må oppdateres. Samfunn og utdanningssystemet må være i harmoni fra barnehage til høyere utdanning. Formålet med utdanningssystemet er å lære folk hvordan samfunnet fungerer og hvordan ny kunnskap blir skapt. Altfor mange mennesker står uten muligheter til å finne arbeid i sitt fagfelt. Dette vil Piratpartiet endre ved å gjøre utdanninger på alle nivå mer varierte, fleksible, koblet til Internett og direkte koblet til samfunnet.
+Piratpartiet mener at utdanningssystemet må oppdateres. Samfunnet og utdanningssystemet må være i harmoni fra barnehage til høyere utdanning. Formålet med utdanningssystemet er å lære folk hvordan samfunnet fungerer og hvordan ny kunnskap blir skapt. Altfor mange mennesker står uten muligheter til å finne arbeid i sitt fagfelt. Dette vil Piratpartiet endre ved å gjøre utdanninger på alle nivå mer varierte, fleksible, koblet til Internett og direkte koblet til samfunnet.
 
 Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller videreutdanning kommer senere ut i arbeidslivet enn de som ikke gjør det.
 
@@ -384,21 +372,21 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 ### 4.3 Spill og e-sport
 Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spill som kultur og regulering av gamblinglignende mekanismer. Piratpartiet ser et stort ubenyttet potensiale for økt kultur og næring i dataspill og e-sport, og vil derfor forbedre rammevilkår og øke tilskudd til aktivitet, utdanning, og oppstartsvirksomhet.
 
+#### Piratpartiet vil:
+
+- Likestille støtte/tilskudd til ikke-kommersielle miljøer, aktiviteter og organisasjoner som driver med dataspill med støtte/tilskudd til annen kultur, sport og idrett etter tilsvarende kriterier.
+- Opprette en paraplyorganisasjon som legges inn under NIF (Norges Idrettsforbund) som skal fremme et bredt tilbud for esport i Norge.
+- Øke bevilgninger til innkjøpsordninger via NFI (Norsk Filminstitutt) spesifikt avsatt til dataspill.
+- Opprette lokale idefabrikker/kompetansesenter på egnede steder (f. eks. offentlige bibliotek) der miljøer kan komme sammen for å utveksle erfaringer, kunnskap og ideer.
+- Satse på utbygging av norskeide datasenter for mange ulike formål, inkludert men ikke begrenset til dataspill.
+- Videreføre og forbedre eksisterende satsning på koding i skolen, og øke tilskudd til etterutdanning/kursing av lærere.
+- Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjonalt og internasjonalt mot gambling-lignende-mekanismer i dataspill. Ingen støtte til markedsføring eller utvikling må gis til selskaper som tjener penger slike mekanismer internt i spill, heller ikke spill med interne betalings-mekanismer for å oppnå fordeler eller motvirke ulemper.
+
 <div id="44-idrett" />
 
 ### 4.4 Idrett
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
-
-#### Piratpartiet vil:
-
-Likestille støtte/tilskudd til ikke-kommersielle miljøer, aktiviteter og organisasjoner som driver med dataspill med støtte/tilskudd til annen kultur, sport og idrett etter tilsvarende kriterier.
-Opprette en paraplyorganisasjon som legges inn under NIF (Norges Idrettsforbund) som skal fremme et bredt tilbud for esport i Norge.
-Øke bevilgninger til innkjøpsordninger via NFI (Norsk Filminstitutt) spesifikt avsatt til dataspill.
-Opprette lokale idefabrikker/kompetansesenter på egnede steder (f. eks. offentlige bibliotek) der miljøer kan komme sammen for å utveksle erfaringer, kunnskap og ideer.
-Satse på utbygging av norskeide datasenter for mange ulike formål, inkludert men ikke begrenset til dataspill.
-Videreføre og forbedre eksisterende satsning på koding i skolen, og øke tilskudd til etterutdanning/kursing av lærere.
-Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjonalt og internasjonalt mot gambling-lignende-mekanismer i dataspill. Ingen støtte til markedsføring eller utvikling må gis til selskaper som tjener penger slike mekanismer internt i spill, heller ikke spill med interne betalings-mekanismer for å oppnå fordeler eller motvirke ulemper.
 
 <div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
 
@@ -432,7 +420,7 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 - Arbeide for et moderne regelverk for Bitcoin og annen kryptovaluta
 - Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
-- Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer
+- Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer.
 - Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
 - Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 
@@ -469,9 +457,9 @@ Piratpartiet ønsker et trygt og anstendig arbeidsliv. Samtidig må vi passe på
 
 Å skape flere nye jobber er det viktigste målet for den økonomiske politikken. Skaper vi flere nye jobber, øker vi skatteinntektene, noe som er forutsetning for å finansiere vår felles velferd.
 
-Piratpartiet mener at veksten i norsk næringsliv må komme fra de små og mellomstore bedriftene. I dag sysselsetter disse bedriftene over halvparten av alle arbeidstakere og produserer 4 av 10 kroner i total verdiskaping. Hvis alle norske foretak med 1-20 ansatte fikk en ansatt til, ville vi fått 165 000 nye arbeidsplasser. Det er flere arbeidsplasser enn vi har arbeidsledige.
+Piratpartiet mener at veksten i norsk næringsliv må komme fra de små og mellomstore bedriftene. I dag sysselsetter disse bedriftene over halvparten av alle arbeidstakere og produserer 4 av 10 kroner i total verdiskaping. Hvis alle norske foretak med opptil 20 ansatte fikk en ansatt til, ville vi fått 165 000 nye arbeidsplasser. Det er flere arbeidsplasser enn vi har arbeidsledige.
 
-Norske små og mellomstore bedrifter er avhengig av norsk kapital for å vokse. Skal flere bedrifter lykkes og arbeidsplasser sikres, må det bli lettere for bedriftene å få tilgang på kapital for å investere.
+Norske små og mellomstore bedrifter er avhengige av norsk kapital for å vokse. Skal flere bedrifter lykkes og arbeidsplasser sikres, må det bli lettere for bedriftene å få tilgang på kapital for investeringer.
 
 #### Piratpartiet mener at:
 
@@ -479,7 +467,7 @@ Norske små og mellomstore bedrifter er avhengig av norsk kapital for å vokse. 
 - Skatt på opsjoner for ansatte utsettes til realisasjonstidspunktet for opsjonen.
 - Arbeidsgiveravgiften må reduseres.
 - Tiltak som gründerlån og tilskudd i tidlig fase må styrkes.
-- Delingsøkonomien er positivt, men nye aktører må skattlegges på lik linje med etablerte næringer.
+- Delingsøkonomi er positivt, men nye aktører må skattlegges på lik linje med etablerte næringer.
 - Skatterapportering må forenkles for alle bedrifter og tilpasses for aktører i delingsøkonomien.
 - Skattefradrag på hjemmetjenester, lik den svenske ROT og RUT ordningen, bør benyttes som et virkemiddel mot svart arbeid.
 
@@ -606,7 +594,7 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. 
 - Innføre høyere avgifter på unødvendig emballasje i alle ledd. 
 - Satse på forskning på fornybare energikilder tilpasset norske forhold, samt bidra i internasjonal forskning på fusjon. 
-- Modernisere og utbygge eksisterende vann-, vind-, og bølgekraftverk, m.m. 
+- Modernisere og bygge ut eksisterende vann-, vind-, og bølgekraftverk, m.m. 
 - Fjerne bompenger og innføre en ny universell beskatning som skal finansiere en bedre offentlig transport. 
 - Redusere avgifter på små energieffektive biler, og øke avgifter på store energi-ineffektive biler. 
 - Prioritere energieffektivseende tiltak og overganger til miljøvennlig teknologi. 
@@ -643,9 +631,9 @@ Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk 
 
 ## 7. Helse
 
-> Piratpartiet ønsker å jobbe for å styrke pasientene og de helsearbeidernes rettigheter.
+> Piratpartiet ønsker å jobbe for å styrke pasientene og helsearbeidernes rettigheter.
 
-Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere må lokalt få mer faglig frihet og mindre administrativt stress, sentralisering med dårligere pasientsikkerhet som konsekvens bør stanses.
+Det bør satses på forebygging og rehabilitering i samfunnet. Helsearbeidere må lokalt få mer faglig frihet og mindre administrativt stress. Sentralisering med dårligere pasientsikkerhet som konsekvens bør stanses.
 
 Piratpartiet mener at helsevesenet i hovedsak er et offentlig ansvar. Der private aktører utfører et arbeid på vegne av offentlige ansvarshavende må det stilles strenge krav til produktkvalitet, intern og ekstern kontroll, personvern, og arbeiderrettigheter. Det må innføres et tak på inntjeningsgrad og lønnsnivå. Arbeidet med digitalisering og automatisering må intensiveres.
 
@@ -657,7 +645,7 @@ Vi anser universell tilgang til medisiner og medisinsk behandling som en mennesk
 - Sørge for at alvorlig syke mennesker får best mulig behandling og medisinering basert på faglige vurderinger.
 - Forbedre varslervern til alle yrkesgrupper.
 - Fjerne foretaksmodellen for sykehus og legge ned de regionale helseforetakene.
-- Endre dagens utvikling der utdaterte metoder for struktur og ledelse ødelegger arbeidsmiljø og behandlingskvalitet.
+- Endre dagens utvikling, der utdaterte metoder for struktur og ledelse ødelegger arbeidsmiljø og behandlingskvalitet.
 - Fristille medisinsk personale i større grad fra unødvendige administrative rutiner.
 - Utrede behov og iverksette tiltak for nye IT-systemer i samråd med egne fagfolk over hele Norge der pasientsikkerhet, personvern, IT-sikkerhet, og effektiv drift må løses på en tilfredsstillende måte.
 - Innføre moderne systemer for digitalisering og automatisering for effektiv drift.
