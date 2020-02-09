@@ -157,6 +157,23 @@ Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eien
 
 <div id="2-individ-og-personvern" />
 
+### 1.5 Barn og unge
+
+#### Oppvekst
+
+Det er viktig at det er gode ordninger for å sikre like rettigheter og muligheter for alle barn uavhengig av sosial eller kulturell bakgrunn, ordninger som er tilstrekkelig tilpasset individuelle variasjoner.
+
+Funksjonshemmede barn har samme rettigheter som andre barn og familien må gis nødvendig faglig og økonomisk støtte for å kunne gi barna best mulig levekår og livskvalitet. Dette inkluderer ombygging av bolig og installering av nødvendig utstyr, jfr. universell utforming.
+
+Piratpartiet vil:
+- Legge forholdene til rette for en trygg, fri, og utviklende barne- og ungdomstid tilpasset individuelle behov.
+- Gi foreldrene like muligheter til permisjons- og offentlige støtteordninger i forbindelse med svangerskap, fødsel og/eller adopsjon. Permisjon i denne forbindelse skal ikke svekke vedkommende sin opptjening av trygd, pensjon, eller andre sosiale stønader.
+- Sikre at barn i familier med ulike økonomiske ressurser, gis likeverdige utviklingsmuligheter og deltakelse i aktiviteter i og utenfor skoletid.
+- Igangsette arbeid med å forbedre dagens løsninger for barnevern som må iverksettes i de tilfellene der foreldre trenger hjelp for å gi barn en trygg oppvekst.
+- Jobbe for at frivillige organisasjoner som arbeider for barns fritidsaktiviteter og velferd gis økt støtte.
+- Jobbe for at alle har tilgang til gratis barnehage og gratis SFO over hele landet.
+- Jobbe for å redusere byråkratiet rundt foreldrepenger, engangsstøtte, barnehage- og skolesøknader. Samt sørge for at alle i utgangspunktet har samme rettigheter.
+
 ## 2. Individ og personvern
 
 > Piratpartiet vil bevare de grunnleggende rettighetene alle individer har, jamfør Piratkodeksen.
