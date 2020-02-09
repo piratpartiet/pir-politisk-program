@@ -317,7 +317,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 <div id="41-utdanning" />
 
-### 4.1. Utdanning
+### 4.1. Skole og utdanning
 
 Piratpartiet mener at utdanningssystemet må oppdateres. Samfunnet og utdanningssystemet må være i harmoni fra barnehage til høyere utdanning. Formålet med utdanningssystemet er å lære folk hvordan samfunnet fungerer og hvordan ny kunnskap blir skapt. Altfor mange mennesker står uten muligheter til å finne arbeid i sitt fagfelt. Dette vil Piratpartiet endre ved å gjøre utdanninger på alle nivå mer varierte, fleksible, koblet til Internett og direkte koblet til samfunnet.
 
@@ -330,6 +330,24 @@ For å hindre frafall i skolen er det ønskelig at skolen i større grad tar hø
 Fokus på et sunt læringsmiljø for alle klassetrinn vil være essensielt for trivsel, og videre fokus på lærerens kvalitet vil øke elevens faglige ferdigheter. Skolene må heller ikke tillates å forfalle til gode for midlertidige budsjetthensyn som bare forverres over tid.
 
 Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer i utviklingen av lære- og leselyst og digital kompetanse. Opplæringsloven må utvides til å spesifisere at skolebibliotekene skal ha kvalifisert personell tilstede i skoletiden, oppdaterte boksamlinger, og teknologisk utstyr til å utvikle digitale ferdigheter. Det skal være et mål at det er et tett samarbeid mellom lærere og skolebibliotekarer.
+
+Piratpartiet skal arbeide for en grunnskole der:
+
+- elevene/lærlingene kan skaffe seg allmennfaglig kompetanse, praktisk kompetanse og sosiale erfaringer som grunnlag for å bli aktive og ansvarlige deltakere i videre studier, samfunns- og arbeidsliv.
+- elevene/lærlingene får tilpasset teoretisk og/eller praktisk læring, oppmuntres til utforskende holdninger og kritisk tankegang på en mest mulig fri måte for å få realisert egne evner og anlegg fullt ut.
+- elevene/lærlingene opplever trygghet og trivsel og at de blir sett og som enkeltindivider.
+- teoretiske og praktiske linjer på videregående skoler er likeverdige.
+- elevene/lærlingene får kunnskaper om verdier som fremmer respekt for menneskeverd, natur og miljø.
+- lærere og annet undervisnings-personell gis mulighet for etter- og videreutdanning med økonomisk kompensasjon
+- de som har det vanskelig får den hjelpen de trenger, og at de flinke får flere meningsfulle muligheter for utvikling.
+- ressursgrunnlaget styrkes slik at skolen kan praktisere tilpasset opplæring for alle.
+- en satser på tidlig innsats rettet mot elever som har særlige behov.
+- basisfagene lesing, skriving, regning og digital kompetanse får økt fokus.
+- det innføres praksisrelaterte studieretninger i videregående skole med teori tilpasset studieretningen.
+- en har nulltoleranse for mobbing
+- det innføres tilleggsutdanning for ledere i skolen.
+- etterutdanning for ledere og lærere pålegges.
+- skolehelsetjenesten styrkes.
 
 #### Piratpartiet vil:
 
