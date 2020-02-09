@@ -761,3 +761,6 @@ Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan b
 
 ### 7.5. Omskjæring
 Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
+
+### 7.6 Uføretrygd og AAP
+Piratpartiet vil jobbe for omstrukturering av prosessen for å innvilge uføretrygd, hvor legers vurdering er tilstrekkelig. Dette vil korte ned på behovet for AAP, og vil beskytte pasienter mot å bruke opp resterende fungeringsevne på utprøvingstiltak. Arbeidsutprøving må bli frivillig, og tilrettelagt på en slik måte at det ikke forverrer helse og fungering.
