@@ -1,6 +1,6 @@
 # Piratpartiets politiske program
 
-Vedtatt 17. mars 2013. Sist oppdatert 28. april 2019.
+Vedtatt 17. mars 2013. Sist oppdatert 15. desember 2019.
 
 ## Piratkodeksen
 
@@ -297,7 +297,7 @@ Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-solda
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
 
-Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til at samfunnet fikk økt tilgang til kulturelle uttrykk. Det var opprinnelig en ren kommersiell begrensning ettersom kopimaskiner var dyre, men nå som de er billige har privatpersoner også blitt omfattet av loven. Internett og den digitale revolusjonen har endret forutsetningene, og loven må følge etter. Vi har ikke alle svarene, men vi vet i hvert fall at vernetiden er unødig høy og at opphavsretten ikke bør kunne trå over grunnleggende rettigheter som fri kommunikasjon og ytringsfriheten. Vi mener det er nødvendig med en reform hvor vi går tilbake til utgangspunktet ved å spørre hvordan samfunnet får tilgang til mest mulig kunnskap og kultur.
+Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til at samfunnet fikk økt tilgang til kulturelle uttrykk. Det var opprinnelig en ren kommersiell begrensning ettersom kopimaskiner var dyre, men nå som de er billige har privatpersoner også blitt omfattet av loven. Internett og den digitale revolusjonen har endret forutsetningene, og loven må følge etter. Vi mener det er nødvendig med en reform hvor vi går tilbake til utgangspunktet ved å spørre hvordan samfunnet får tilgang til mest mulig kunnskap og kultur.
 
 ### Piratpartiet vil:
 
@@ -389,6 +389,35 @@ Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spi
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
 <div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
+
+### 4.5 Bruksrettigheter i forbindelse med opphavsrett
+
+#### I) Liberalisering av eksemplarfremstilling og deling av verk
+
+Piratpartiet ønsker å liberalisere retten til fremstilling og
+deling av eksemplarer, slik at ikke-kommersiell deling og
+distribusjon gjøres lovlig, inkludert retten til kreativ gjenbruk
+(å lage avledete verk), og dette er fullt mulig å kombinere med
+at skapere får betalt for sitt arbeid.
+
+#### II) Kortere vernetid og nei til lovvern av DRM/tekniske sperrer
+
+Piratpartiet vil fjerne eget lovvern av DRM/tekniske sperrer, og
+vil korte ned vernetidens varighet.
+
+#### III) Vurdere krav om aktiv registrering av kommersielle opphavsrettigheter
+
+Piratpartiet vil utrede om det bør innføres en ordning for aktiv
+registrering av opphavsrett, istedenfor dagens system med
+automatisk opphavsrett.
+
+#### IV) Enkel, forståelig og moderne/utviklingsvennlig opphavsrett
+
+Piratpartiet ønsker ikke å fjerne Åndsverkloven eller all
+opphavsrett, og oppmuntrer heller ikke til lovbrudd. Derimot vil
+partiet ha lover som stemmer overens både med teknologisk og
+sosial utvikling, og med alminnelig rettsfølelse, og som dessuten
+er enkle å forholde seg til for folk flest.
 
 ## 5. Næringsliv og økonomi
 
