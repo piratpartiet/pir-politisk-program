@@ -174,6 +174,9 @@ Piratpartiet vil:
 - Jobbe for at alle har tilgang til gratis barnehage og gratis SFO over hele landet.
 - Jobbe for å redusere byråkratiet rundt foreldrepenger, engangsstøtte, barnehage- og skolesøknader. Samt sørge for at alle i utgangspunktet har samme rettigheter.
 
+#### Barnevern
+Tvungen overtakelse av omsorg for barn skal alltid vurderes av utenforstående instans fra annet geografisk kontor enn besluttende barnevernsvedtak innen to uker etter overtakelse. Barn og foreldres rettigheter skal sikres gjennom objektiv og upartisk vurdering. Med mindre det er umiddelbar fare for liv og helse skal relevante og faglig utarbeidende tiltak prøves før vedtak om overtakelse skal fattes. Dersom barn må skjermes på grunn av umiddelbar fare for liv og helse, skal tiltak igangsettes for å sikre barnets velferd, samt at alle relevante tiltak skal tilbys foreldrene uavhengig av om man tar sikte på gjenforening.
+
 ## 2. Individ og personvern
 
 > Piratpartiet vil bevare de grunnleggende rettighetene alle individer har, jamfør Piratkodeksen.
