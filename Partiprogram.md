@@ -1,6 +1,6 @@
 # Piratpartiets politiske program
 
-Vedtatt 17. mars 2013. Sist oppdatert 15. desember 2019.
+Vedtatt 17. mars 2013. Sist oppdatert 19. april 2020.
 
 ## Piratkodeksen
 
@@ -102,6 +102,7 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
+- Avskaffe sperregrensen.
 
 <div id="11-flytende-demokrati" />
 
@@ -381,6 +382,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
+- Erstatte IKT/Kode-fag på grunnskolen med Teknologifag som endres annet hvert år for å holde tritt med teknologiske trender.
 
 <div id="42-forskning-og-innovasjon" />
 
@@ -420,6 +422,7 @@ Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spi
 - Satse på utbygging av norskeide datasenter for mange ulike formål, inkludert men ikke begrenset til dataspill.
 - Videreføre og forbedre eksisterende satsning på koding i skolen, og øke tilskudd til etterutdanning/kursing av lærere.
 - Ta initiativ i alle tilgjengelige kanaler for å skape en ny bransjenorm nasjonalt og internasjonalt mot gambling-lignende-mekanismer i dataspill. Ingen støtte til markedsføring eller utvikling må gis til selskaper som tjener penger slike mekanismer internt i spill, heller ikke spill med interne betalings-mekanismer for å oppnå fordeler eller motvirke ulemper.
+- Arbeide for at det lanseres et norsk spillkollektiv for indie-utviklere og tilhørende kunstnere, med fokus på tilgang til fasiliteter og -teknologi, samt lave leve- og arbeidskostnader.
 
 <div id="44-idrett" />
 
@@ -538,6 +541,7 @@ Norske små og mellomstore bedrifter er avhengige av norsk kapital for å vokse.
 - Delingsøkonomi er positivt, men nye aktører må skattlegges på lik linje med etablerte næringer.
 - Skatterapportering må forenkles for alle bedrifter og tilpasses for aktører i delingsøkonomien.
 - Skattefradrag på hjemmetjenester, lik den svenske ROT og RUT ordningen, bør benyttes som et virkemiddel mot svart arbeid.
+- Det skal gis skattefradrag for deltakelse i folkefinansieringer av ikke-kommersielle initiativ som produserer samfunnsgoder med fri og gratis tilgang.
 
 <div id="54-nordisk-n%c3%a6ringssamarbeid" />
 
