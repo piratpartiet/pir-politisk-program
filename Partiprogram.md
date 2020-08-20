@@ -434,7 +434,7 @@ Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anleg
 
 ### 4.5 Bruksrettigheter i forbindelse med opphavsrett
 
-#### I) Liberalisering av eksemplarfremstilling og deling av verk
+#### 4.5.1 Liberalisering av eksemplarfremstilling og deling av verk
 
 Piratpartiet ønsker å liberalisere retten til fremstilling og
 deling av eksemplarer, slik at ikke-kommersiell deling og
@@ -442,18 +442,18 @@ distribusjon gjøres lovlig, inkludert retten til kreativ gjenbruk
 (å lage avledete verk), og dette er fullt mulig å kombinere med
 at skapere får betalt for sitt arbeid.
 
-#### II) Kortere vernetid og nei til lovvern av DRM/tekniske sperrer
+#### 4.5.2 Kortere vernetid og nei til lovvern av DRM/tekniske sperrer
 
 Piratpartiet vil fjerne eget lovvern av DRM/tekniske sperrer, og
 vil korte ned vernetidens varighet.
 
-#### III) Vurdere krav om aktiv registrering av kommersielle opphavsrettigheter
+#### 4.5.3 Vurdere krav om aktiv registrering av kommersielle opphavsrettigheter
 
 Piratpartiet vil utrede om det bør innføres en ordning for aktiv
 registrering av opphavsrett, istedenfor dagens system med
 automatisk opphavsrett.
 
-#### IV) Enkel, forståelig og moderne/utviklingsvennlig opphavsrett
+#### 4.5.4 Enkel, forståelig og moderne/utviklingsvennlig opphavsrett
 
 Piratpartiet ønsker ikke å fjerne Åndsverkloven eller all
 opphavsrett, og oppmuntrer heller ikke til lovbrudd. Derimot vil
