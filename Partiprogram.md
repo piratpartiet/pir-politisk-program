@@ -190,6 +190,28 @@ Piratpartiet vil:
 #### Barnevern
 Tvungen overtakelse av omsorg for barn skal alltid vurderes av utenforstående instans fra annet geografisk kontor enn besluttende barnevernsvedtak innen to uker etter overtakelse. Barn og foreldres rettigheter skal sikres gjennom objektiv og upartisk vurdering. Med mindre det er umiddelbar fare for liv og helse skal relevante og faglig utarbeidende tiltak prøves før vedtak om overtakelse skal fattes. Dersom barn må skjermes på grunn av umiddelbar fare for liv og helse, skal tiltak igangsettes for å sikre barnets velferd, samt at alle relevante tiltak skal tilbys foreldrene uavhengig av om man tar sikte på gjenforening.
 
+### 1.6 Lesbiske, homofile, bifile, transpersoner og skeives rettigheter
+
+Piratpartiet anser alle som likeverdige uansett seksuell legning eller kjønnsuttrykk.
+
+Korrekt språk må inn i offentlig forvaltning, og tilgang på tilpasset helsehjelp skal gjøres tilgjengelig på lavterskelnivå uten krav om diagnose.
+
+Tiltak skal settes inn i forhold til forskningsresultater, og være likeverdige i alle
+landsdeler.
+
+Vi vil jobbe for at alle skeive lett skal kunne finne informasjon, hjelp og trygge møtesteder både i offentlig og frivillig regi.
+
+Vi ønsker et inkluderende samfunn der den enkelte står fritt til å ta de relasjonsvalg som er rett for seg. Vi mener at alle relasjoner basert på samtykke og likeverd skal anerkjennes. Vi tar avstand fra alle former for relasjoner basert på utnyttelse og tvang.
+
+### Piratpartiet vil:
+
+- Sikre enkeltindividets rett til å utvikle naturlige og trygge relasjoner i forhold til egen identitet.
+- Fjerne kjønn fra pass.
+- Sikre like rettigheter uavhengig av seksuell legning
+- Arbeide for økt kompetanse og forståelse for LGBTQIA+-personer i samfunnet, for å minske diskriminering
+- Kjempe mot diskriminerende lovverk, og kjempe for antidiskriminerende lovverk – blant annet fjerne ekteskapsloven.
+- Sikre seksuell frihet og frihet for alle kjønnsuttrykk – dette er på lik linje med religion en privatsak, og angår kun de involverte.
+
 ## 2. Individ og personvern
 
 > Piratpartiet vil bevare de grunnleggende rettighetene alle individer har, jamfør Piratkodeksen.
