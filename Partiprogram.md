@@ -563,6 +563,10 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Sikre den frie konkurransen gjennom å motarbeide monopoler og karteller gjennom å gripe inn mot private og offentlige monopoler og motarbeide uheldig konsentrasjon av politisk og økonomisk makt.
 - Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
+- Gi selvstendig næringsdrivende lik rett til sykepenger og pensjon.
+- Fjerne arbeidsgiveravgiften for nye bedrifter.
+- Ta bort unødvendige regler og skjema for bedrifter, NAV og helsevesenet.
+- Gjøre det lønnsomt å investere i nye arbeidsplasser.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 - Arbeide for et moderne regelverk for Bitcoin og annen kryptovaluta
