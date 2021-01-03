@@ -313,6 +313,14 @@ Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøri
 
 Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
 
+Vi støtter internasjonalt forbud mot atomvåpen og autonome våpensystemer. Norge må ratifisere forbudet mot atomvåpen. Atomvåpen må aldri bli brukt av
+Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytte mennesker mot dødelige autonome våpensystemer (drapsroboter).
+
+### Piratpartiet vil:
+- Søke å oppnå global nedrustning og en slutt på væpnet konflikt verden over.
+- Søke aktiv deeskalering i nye konflikter av militær karakter for å unngå utfall slik som de mangeårige borgerkrigene i Syria og Libya.
+- Søke i pågående konflikter opprettelsen av store varige humanitære soner hvor sivilbefolkningen kan være beskyttet mot krigføring, så en totalkollaps av samfunnets fysiske og sosiale infrastruktur kan unngås, og enkelte næringer, utdanninginstitusjoner og helsevesenet kan fortsette å fungere mest mulig.
+
 <div id="4-kunnskap-og-kultur" />
 
 ## 4. Kunnskap og kultur
