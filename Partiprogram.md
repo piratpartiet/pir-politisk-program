@@ -33,6 +33,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [1.2. Kommunesammenslåing](#12-kommunesammensl%c3%a5ing)
     - [1.3. Innvandrings- og asylpolitikk](#13-innvandrings--og-asylpolitikk)
     - [1.4. Boligpolitikk](#14-boligpolitikk)
+    - [1.5 Barn og unge] (#15-barn-og-unge)
+    - [1.6 Lesbiske, homofile, bifile, transpersoner og skeives rettigheter] (#16-skeives-rettigheter)
   - [2. Individ og personvern](#2-individ-og-personvern)
   - [3. Kommunikasjon og infrastruktur](#3-kommunikasjon-og-infrastruktur)
     - [3.1. Energipolitikk](#31-energipolitikk)
@@ -168,7 +170,7 @@ Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er kobl
 
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
 
-<div id="2-individ-og-personvern" />
+<div id="15-barn-og-unge" />
 
 ### 1.5 Barn og unge
 
@@ -189,6 +191,8 @@ Piratpartiet vil:
 
 #### Barnevern
 Tvungen overtakelse av omsorg for barn skal alltid vurderes av utenforstående instans fra annet geografisk kontor enn besluttende barnevernsvedtak innen to uker etter overtakelse. Barn og foreldres rettigheter skal sikres gjennom objektiv og upartisk vurdering. Med mindre det er umiddelbar fare for liv og helse skal relevante og faglig utarbeidende tiltak prøves før vedtak om overtakelse skal fattes. Dersom barn må skjermes på grunn av umiddelbar fare for liv og helse, skal tiltak igangsettes for å sikre barnets velferd, samt at alle relevante tiltak skal tilbys foreldrene uavhengig av om man tar sikte på gjenforening.
+
+<div id="16-skeives-rettigheter" />
 
 ### 1.6 Lesbiske, homofile, bifile, transpersoner og skeives rettigheter
 
@@ -211,6 +215,8 @@ Vi ønsker et inkluderende samfunn der den enkelte står fritt til å ta de rela
 - Arbeide for økt kompetanse og forståelse for LGBTQIA+-personer i samfunnet, for å minske diskriminering
 - Kjempe mot diskriminerende lovverk, og kjempe for antidiskriminerende lovverk – blant annet fjerne ekteskapsloven.
 - Sikre seksuell frihet og frihet for alle kjønnsuttrykk – dette er på lik linje med religion en privatsak, og angår kun de involverte.
+
+<div id="2-individ-og-personvern" />
 
 ## 2. Individ og personvern
 
