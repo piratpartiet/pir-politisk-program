@@ -33,9 +33,10 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [1.2. Kommunesammenslåing](#12-kommunesammensl%c3%a5ing)
     - [1.3. Innvandrings- og asylpolitikk](#13-innvandrings--og-asylpolitikk)
     - [1.4. Boligpolitikk](#14-boligpolitikk)
-    - [1.5 Barn og unge] (#15-barn-og-unge)
-    - [1.6 Lesbiske, homofile, bifile, transpersoner og skeives rettigheter] (#16-skeives-rettigheter)
+    - [1.5. Barn og unge] (#15-barn-og-unge)
+    - [1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter] (#16-skeives-rettigheter)
   - [2. Individ og personvern](#2-individ-og-personvern)
+    - [2.1. Norske skytjenester](#21-norske-skytjenester)
   - [3. Kommunikasjon og infrastruktur](#3-kommunikasjon-og-infrastruktur)
     - [3.1. Energipolitikk](#31-energipolitikk)
     - [3.2. Nettnøytralitet](#32-nettn%c3%b8ytralitet)
@@ -67,7 +68,7 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [5.14. Økologi](#514-%c3%98kologi)
     - [5.15. Forbrukervern](#515-forbrukervern)
   - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
-    - [6.1 Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
+    - [6.1. Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
   - [7. Helse](#7-helse)
     - [7.1. Ruspolitikk](#71-ruspolitikk)
     - [7.2. Tannhelse](#72-tannhelse)
@@ -176,7 +177,7 @@ Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eien
 
 <div id="15-barn-og-unge" />
 
-### 1.5 Barn og unge
+### 1.5. Barn og unge
 
 #### Oppvekst
 
@@ -198,7 +199,7 @@ Tvungen overtakelse av omsorg for barn skal alltid vurderes av utenforstående i
 
 <div id="16-skeives-rettigheter" />
 
-### 1.6 Lesbiske, homofile, bifile, transpersoner og skeives rettigheter
+### 1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter
 
 Piratpartiet anser alle som likeverdige uansett seksuell legning eller kjønnsuttrykk.
 
@@ -253,6 +254,12 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 - Det skal opprettes et uavhengig varslerombud.
+
+<div id="21-norske-skytjenester" />
+
+### 2.1. Norske skytjenester
+
+Den samlede nasjonale avhengigheten av utenlandske leverandører av skytjenester er for stor og vi har ikke tilstrekkelig nasjonal kontroll, ifølge Nasjonal Sikkerhetsmyndighet. Vi mener et av svarene må være at staten bygger opp egne skytjenester for offentlig sektor, slik de gjør i flere andre land.
 
 <div id="3-kommunikasjon-og-infrastruktur" />
 
@@ -753,7 +760,7 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
 
-### 6.1 Støtting av FNs bærekrafsmål
+### 6.1. Støtting av FNs bærekrafsmål
 
 Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål.
 
