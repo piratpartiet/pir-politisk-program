@@ -348,6 +348,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Bekjempe bruk av regionsperrer for åndsverk.
 - Bekjempe spesialavgifter på lagringsmedier.
 - Gi rett til å utvikle ikke-kommersiell kultur basert på kommersielle produkter.
+- Få på plass regelverk og datasystemer som sikrer at innhenting av lisens til bruk av et de fleste åndsverk tar kort tid, kan gjøres ved selvbetjening, og har begrenset kostnad for privatfolk og små og mellomstore selskap.
 - Gi Nasjonalbiblioteket økt støtte til digitalisering av eldre aviser, tidsskrifter og andre publikasjoner, slik at de raskt blir lettere tilgjengelig for offentligheten enn i dag.
 - Opprettholde støtteordninger for kreative og kunstneriske aktiviteter.
 - Kreve at kulturinstitusjoner, som får offentlig støtte, publiserer gjenbrukbart digitalt innhold.
