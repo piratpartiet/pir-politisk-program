@@ -638,6 +638,13 @@ Piratpartiet støtter den frie organisasjonsretten, men også retten til å vær
 
 Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som er lik eller høyere enn prisøkningen i landet. Videre vil vi fjerne frafallet i bruttotrygd for uføre som gifter seg eller blir samboer, da poenget med å bo sammen er å spare utgifter for å øke kjøpekraften.
 
+#### Piratpartiet mener at:
+- Pensjonistene skal ha forhandlingsrett.
+- Pensjoner og trygd skal KPI-reguleres, ingen underregulering.
+- Samordning av pensjon for ektefeller og samboere må fjernes.
+- Heve minstepensjon
+- De som arbeider i offentlig sektor må få samme rett til å motta lønn for arbeid i tillegg til pensjon, som i privat sektor, uten at pensjonen skal bli avkortet.
+
 <div id="513-globalisering" />
 
 ### 5.13. Globalisering
