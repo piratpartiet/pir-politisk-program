@@ -101,12 +101,12 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
+- Støtte minoriteter med retten til å holde folkeavstemning om økt autonomi og/eller nasjonal selvstendighet, der hvor det disse har gode historiske, geografiske og kulturelt etablerte grunnlag for slik selvstendighet.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
 - Avskaffe sperregrensen.
 - Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
 journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
-
 
 <div id="11-flytende-demokrati" />
 
