@@ -1,6 +1,6 @@
 # Piratpartiets politiske program
 
-Vedtatt 17. mars 2013. Sist oppdatert 19. april 2020.
+Vedtatt 17. mars 2013. Sist oppdatert 15. november 2020.
 
 ## Piratkodeksen
 
