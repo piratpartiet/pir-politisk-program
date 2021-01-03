@@ -294,6 +294,9 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 - Kreve bruk av leverandørnøytrale fil- og dataformater i offentlig sektor.
 - Kreve at alt av offentlig finansierte kart gjøres fritt tilgjengelig for muligheter for gjenbruk.
 - Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med de nasjonale offentlige tjenestene.
+- Kutt i forbindelse med avbyråkratisering skal gjøres på toppen av offentlige organisasjoner og gevinstene skal tilfalle brukerne. Flere varme hender.
+- Kutte i offentlig konsulentbruk og fordele offentlige IKT-prosjekter i mindre deler for bedre kontroll, med lavere kostnader og bedre involvering av IT-eksperter, brukere og ansatte.
+- Sørge for bedre kostnadskontroll i offentlig sektor på områder med rask kostnadsvekst, blant annet i samferdselssektoren.
 - Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg digitalisering.
 - Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til rådighet for disse instansene.
 - Innføre kostnadstak på mobiltelefon ved roaming.
