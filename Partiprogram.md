@@ -46,6 +46,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [4.2. Forskning og innovasjon](#42-forskning-og-innovasjon)
     - [4.3 Spill og e-sport](#43-spill-og-e-sport)
     - [4.4 Idrett](#44-idrett)
+    - [4.5 Bruksrettigheter i forbindelse med opphavsrett](#45-bruksrettigheter) 
+    - [4.6 Statlig finansiering av bibliotekene](#46-bibliotek)
   - [5. Næringsliv og økonomi](#5-n%c3%a6ringsliv-og-%c3%b8konomi)
     - [5.1. Bedre rettigheter for næringsdrivende og gründere](#51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere)
     - [5.2. Arbeidsliv](#52-arbeidsliv)
@@ -452,18 +454,7 @@ Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spi
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
-<div id="45-idrett" />
-
-### 4.5 Statlig finansiering av bibliotekene
-
-Piratpartiet ønsker å legge mer av finansieringen av bibliotekene til staten, for å hindre at det blir en kommunal salderingspost.
-
-Piratpartiet ønsker å øke statlig støtte til utbygging og drift av folkebiblioteker.
-
-Piratpartiet foreslår å øke statlige midler for å opprettholde dagens nivå på bibliotekstjenester. Ekstra midler bør øremerkes til økte kostnader på grunn av
-Covid-19-tiltak, så lenge dette er relevant.
-
-<div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
+<div id="45-bruksrettigheter" />
 
 ### 4.5 Bruksrettigheter i forbindelse med opphavsrett
 
@@ -493,6 +484,19 @@ opphavsrett, og oppmuntrer heller ikke til lovbrudd. Derimot vil
 partiet ha lover som stemmer overens både med teknologisk og
 sosial utvikling, og med alminnelig rettsfølelse, og som dessuten
 er enkle å forholde seg til for folk flest.
+
+<div id="46-bibliotek" />
+
+### 4.6 Statlig finansiering av bibliotekene
+
+Piratpartiet ønsker å legge mer av finansieringen av bibliotekene til staten, for å hindre at det blir en kommunal salderingspost.
+
+Piratpartiet ønsker å øke statlig støtte til utbygging og drift av folkebiblioteker.
+
+Piratpartiet foreslår å øke statlige midler for å opprettholde dagens nivå på bibliotekstjenester. Ekstra midler bør øremerkes til økte kostnader på grunn av
+Covid-19-tiltak, så lenge dette er relevant.
+
+<div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
 
 ## 5. Næringsliv og økonomi
 
