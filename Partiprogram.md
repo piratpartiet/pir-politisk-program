@@ -103,6 +103,9 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
 - Avskaffe sperregrensen.
+- Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
+journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
+
 
 <div id="11-flytende-demokrati" />
 
