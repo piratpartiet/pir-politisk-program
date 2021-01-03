@@ -784,6 +784,10 @@ Vi ønsker at lovproposisjonen om retten til brukerstyrt personlig assistanse (B
 
 Piratpartiet mener at vi må lytte til dem som føler problemet med mobbing av funksjonshemmede på kroppen. Piratpartiet ønsker at grupper med ulike funksjonshemminger skal få en skolehverdag tilrettelagt sine særskilte behov. For å sikre at mobbing ikke er et problem må man sikre gode kunnskaper og toleranse i samfunnet. Vi tror mye av mobbingen generelt kommer av manglende toleranse for annerledeshet. Den toleransen og kjærligheten man ser hos små barn må dyrkes og støttes, slik at man ikke mister den på veien til voksenlivet.
 
+#### Piratpartiet ønsker:
+- en full statlig finansiert BPA-ordning. Dette vil sikre at alle som fyller vilkårene for BPA, vil få muligheten til å nyttiggjøre seg ordningen, uavhengig av bostedskommune.
+- å flytte BPA-ordningen ut av helse- og omsorgstjenesteloven og tilbake til sosialtjenesteloven innunder Arbeids- og sosialdepartementet, med åpning for samkoordinasjon med helsetjenesten der det er behov.
+
 <div id="74-synsrehabilitering" />
 
 ### 7.4. Synsrehabilitering
