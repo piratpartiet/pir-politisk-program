@@ -69,7 +69,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [7.2. Tannhelse](#72-tannhelse)
     - [7.3. Funksjonshemmede](#73-funksjonshemmede)
     - [7.4. Synsrehabilitering](#74-synsrehabilitering)
-    - [7.5. Omskjæring](#75-omskj%c3%a6ring)
+    - [7.5. Barnevern] (#75-barnevern)
+    - [7.6. Omskjæring](#76-omskj%c3%a6ring)
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
@@ -777,9 +778,19 @@ Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksett
 
 Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
 
-<div id="75-omskj%c3%a6ring" />
+<div id="#75-barnevern" />
 
-### 7.5. Omskjæring
+### 7.5. Barnevern
+
+Barnevernet skal deles slik at man får en kommunal forebyggings- og hjelpeenhet; mens omsorgsovertakelser og lignende overlates til statlig virksomhet.
+
+Fylkesnemndene skal fjernes og barnevernssaker skal behandles i domstolsapparatet.
+
+Kravene til sakkyndige og rapportene som skrives, skal strammes inn.
+
+<div id="76-omskj%c3%a6ring" />
+
+### 7.6. Omskjæring
 Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
 
 ### 7.6 Uføretrygd og AAP
