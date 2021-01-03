@@ -67,6 +67,7 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [5.13. Globalisering](#513-globalisering)
     - [5.14. Økologi](#514-%c3%98kologi)
     - [5.15. Forbrukervern](#515-forbrukervern)
+    - [5.16. Menneskerettigheter for næringslivet] (#516-menneskerettigheter-for-naeringslivet)
   - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
     - [6.1. Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
   - [7. Helse](#7-helse)
@@ -735,6 +736,12 @@ Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi ska
 ### 5.15. Forbrukervern
 
 Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
+
+<div id="516-menneskerettigheter-for-naeringslivet" />
+
+### 5.16. Menneskerettigheter for næringslivet
+
+Norsk næringsliv tjener på menneskerettighetsbrudd verden over. Dette går aller hardest utover utsatte mennesker i lav- og mellominntektsland. Myndighetene har til nå gjort lite for å forhindre dette, og har i stedet skjøvet ansvaret over på forbrukerne. Det er urettferdig! Norge må vedta en menneskerettighetslov for næringslivet. Denne må inkludere strenge sanksjoner for selskaper som bryter loven.
 
 <div id="6-klima-og-milj%c3%b8" />
 
