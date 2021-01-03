@@ -168,6 +168,8 @@ At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges no
 
 ### 1.4. Boligpolitikk
 
+Piratpartiet vil endre husleieloven slik at det blir forbudt å diskriminere folk som er avhengig av offentlige ytelser.
+
 Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
 
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
