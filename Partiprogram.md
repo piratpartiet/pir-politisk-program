@@ -452,6 +452,17 @@ Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spi
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
+<div id="45-idrett" />
+
+### 4.5 Statlig finansiering av bibliotekene
+
+Piratpartiet ønsker å legge mer av finansieringen av bibliotekene til staten, for å hindre at det blir en kommunal salderingspost.
+
+Piratpartiet ønsker å øke statlig støtte til utbygging og drift av folkebiblioteker.
+
+Piratpartiet foreslår å øke statlige midler for å opprettholde dagens nivå på bibliotekstjenester. Ekstra midler bør øremerkes til økte kostnader på grunn av
+Covid-19-tiltak, så lenge dette er relevant.
+
 <div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
 
 ### 4.5 Bruksrettigheter i forbindelse med opphavsrett
