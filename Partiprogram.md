@@ -152,6 +152,12 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
+#### Piratpartiet jobber konkret for at:
+- Norge skal etterfølge internasjonale forpliktelser og følge anbefalinger fra FN, samt ratifisere FNs konvensjon om migranters rettigheter.
+- rettigheter ikke skal tilsidesettes på grunn av innvandringspolitiske hensyn.
+- asylsøkere skal ha rettssikker asylsaksbehandling inklusive klagerett.
+- saksbehandlingstiden for asylsøknader reduseres, og at asylsøkere gis nødvendig tilgang til kommunikasjon og aktiviteter ved opphold på asylmottak.
+
 <div id="14-boligpolitikk" />
 
 ### 1.4. Boligpolitikk
