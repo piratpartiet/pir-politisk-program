@@ -743,8 +743,9 @@ Vi anser universell tilgang til medisiner og medisinsk behandling som en mennesk
 - Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
 - Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
 - Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
-- Øremerke midler til å opprette og drifte stående MR-undersøkelse på Rikshospitalet i Oslo og på Haukeland i
-Bergen.
+- Øremerke midler til å opprette og drifte stående MR-undersøkelse på Rikshospitalet i Oslo og på Haukeland i Bergen.
+- Avskaffe NAV sin utredningsprosess under arbeidsavklaring og ordningen med arbeidsavklaringspenger (AAP), og overføre ansvar
+til helsetjenesten, for vi ønsker et nytt og mer medmenneskelig system.
 
 <div id="71-ruspolitikk" />
 
