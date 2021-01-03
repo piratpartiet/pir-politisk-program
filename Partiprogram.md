@@ -108,6 +108,7 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
 - Begrense perioden folkevalgte kan sitte sammenhengende til to perioder, altså 8 år.
+- Innføre lavere lønn for politikere og folk i politiske toppjobber – maks 6 ganger grunnbeløpet.
 - Avskaffe sperregrensen.
 - Støtte minoriteter med retten til å holde folkeavstemning om økt autonomi og/eller nasjonal selvstendighet, der hvor det disse har gode historiske, geografiske og kulturelt etablerte grunnlag for slik selvstendighet.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
@@ -450,6 +451,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
 - Erstatte IKT/Kode-fag på grunnskolen med Teknologifag som endres annet hvert år for å holde tritt med teknologiske trender.
+- Innføre gratis skolemat til alle
 
 <div id="42-forskning-og-innovasjon" />
 
