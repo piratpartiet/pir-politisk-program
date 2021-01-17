@@ -776,7 +776,7 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
 
-### 6.1. Støtting av FNs bærekrafsmål
+### 6.1. Støtting av FNs bærekraftsmål
 
 Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål.
 
