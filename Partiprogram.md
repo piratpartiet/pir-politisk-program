@@ -400,8 +400,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Kreve at kulturinstitusjoner, som får offentlig støtte, publiserer gjenbrukbart digitalt innhold.
 - Innføre krav om at offentlig ansatte skal bidra med gjenbrukbart innhold på nettet i relevante arenaer.
 - Kreve bruk av programvare som er lisensiert med frie eller åpen-kildekode-lisenser i offentlig sektor.
-- Offentlige penger burde komme offentligheten til gode.
-- Programvare uten bruksbegrensninger kan gjenbrukes av offentligheten i andre sammenhenger.
+- Offentlige penger burde komme offentligheten til gode; programvare uten bruksbegrensninger kan gjenbrukes av offentligheten i andre sammenhenger.
 - Utvikling av programvare finansiert av det offentlige skal i størst mulig grad være tilgjengelig som åpen kildekode.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 
