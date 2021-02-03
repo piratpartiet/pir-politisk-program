@@ -1,6 +1,6 @@
 # Piratpartiets politiske program
 
-Vedtatt 17. mars 2013. Sist oppdatert 19. april 2020.
+Vedtatt 17. mars 2013. Sist oppdatert 15. november 2020.
 
 ## Piratkodeksen
 
@@ -33,7 +33,10 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [1.2. Kommunesammenslåing](#12-kommunesammensl%c3%a5ing)
     - [1.3. Innvandrings- og asylpolitikk](#13-innvandrings--og-asylpolitikk)
     - [1.4. Boligpolitikk](#14-boligpolitikk)
+    - [1.5. Barn og unge] (#15-barn-og-unge)
+    - [1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter] (#16-skeives-rettigheter)
   - [2. Individ og personvern](#2-individ-og-personvern)
+    - [2.1. Norske skytjenester](#21-norske-skytjenester)
   - [3. Kommunikasjon og infrastruktur](#3-kommunikasjon-og-infrastruktur)
     - [3.1. Energipolitikk](#31-energipolitikk)
     - [3.2. Nettnøytralitet](#32-nettn%c3%b8ytralitet)
@@ -46,6 +49,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [4.2. Forskning og innovasjon](#42-forskning-og-innovasjon)
     - [4.3 Spill og e-sport](#43-spill-og-e-sport)
     - [4.4 Idrett](#44-idrett)
+    - [4.5 Bruksrettigheter i forbindelse med opphavsrett](#45-bruksrettigheter) 
+    - [4.6 Statlig finansiering av bibliotekene](#46-bibliotek)
   - [5. Næringsliv og økonomi](#5-n%c3%a6ringsliv-og-%c3%b8konomi)
     - [5.1. Bedre rettigheter for næringsdrivende og gründere](#51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere)
     - [5.2. Arbeidsliv](#52-arbeidsliv)
@@ -62,14 +67,17 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [5.13. Globalisering](#513-globalisering)
     - [5.14. Økologi](#514-%c3%98kologi)
     - [5.15. Forbrukervern](#515-forbrukervern)
+    - [5.16. Menneskerettigheter for næringslivet] (#516-menneskerettigheter-for-naeringslivet)
   - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
-    - [6.1 Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
+    - [6.1. Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
   - [7. Helse](#7-helse)
     - [7.1. Ruspolitikk](#71-ruspolitikk)
     - [7.2. Tannhelse](#72-tannhelse)
     - [7.3. Funksjonshemmede](#73-funksjonshemmede)
     - [7.4. Synsrehabilitering](#74-synsrehabilitering)
-    - [7.5. Omskjæring](#75-omskj%c3%a6ring)
+    - [7.5 Uføretrygd og AAP]("#75-ufoeretrygd-og-aap)
+    - [7.6. Barnevern] (#76-barnevern)
+    - [7.7. Omskjæring](#77-omskjaering)
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
@@ -100,9 +108,15 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
+- Begrense perioden folkevalgte kan sitte sammenhengende til to perioder, altså 8 år.
+- Innføre lavere lønn for politikere og folk i politiske toppjobber – maks 6 ganger grunnbeløpet.
+- Avskaffe sperregrensen.
+- Støtte minoriteter med retten til å holde folkeavstemning om økt autonomi og/eller nasjonal selvstendighet, der hvor det disse har gode historiske, geografiske og kulturelt etablerte grunnlag for slik selvstendighet.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
-- Avskaffe sperregrensen.
+
+- Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
+journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
 
 <div id="11-flytende-demokrati" />
 
@@ -148,17 +162,25 @@ Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basis
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
+#### Piratpartiet jobber konkret for at:
+- Norge skal etterfølge internasjonale forpliktelser og følge anbefalinger fra FN, samt ratifisere FNs konvensjon om migranters rettigheter.
+- rettigheter ikke skal tilsidesettes på grunn av innvandringspolitiske hensyn.
+- asylsøkere skal ha rettssikker asylsaksbehandling inklusive klagerett.
+- saksbehandlingstiden for asylsøknader reduseres, og at asylsøkere gis nødvendig tilgang til kommunikasjon og aktiviteter ved opphold på asylmottak.
+
 <div id="14-boligpolitikk" />
 
 ### 1.4. Boligpolitikk
+
+Piratpartiet vil endre husleieloven slik at det blir forbudt å diskriminere folk som er avhengig av offentlige ytelser.
 
 Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
 
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
 
-<div id="2-individ-og-personvern" />
+<div id="15-barn-og-unge" />
 
-### 1.5 Barn og unge
+### 1.5. Barn og unge
 
 #### Oppvekst
 
@@ -177,6 +199,32 @@ Piratpartiet vil:
 
 #### Barnevern
 Tvungen overtakelse av omsorg for barn skal alltid vurderes av utenforstående instans fra annet geografisk kontor enn besluttende barnevernsvedtak innen to uker etter overtakelse. Barn og foreldres rettigheter skal sikres gjennom objektiv og upartisk vurdering. Med mindre det er umiddelbar fare for liv og helse skal relevante og faglig utarbeidende tiltak prøves før vedtak om overtakelse skal fattes. Dersom barn må skjermes på grunn av umiddelbar fare for liv og helse, skal tiltak igangsettes for å sikre barnets velferd, samt at alle relevante tiltak skal tilbys foreldrene uavhengig av om man tar sikte på gjenforening.
+
+<div id="16-skeives-rettigheter" />
+
+### 1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter
+
+Piratpartiet anser alle som likeverdige uansett seksuell legning eller kjønnsuttrykk.
+
+Korrekt språk må inn i offentlig forvaltning, og tilgang på tilpasset helsehjelp skal gjøres tilgjengelig på lavterskelnivå uten krav om diagnose.
+
+Tiltak skal settes inn i forhold til forskningsresultater, og være likeverdige i alle
+landsdeler.
+
+Vi vil jobbe for at alle skeive lett skal kunne finne informasjon, hjelp og trygge møtesteder både i offentlig og frivillig regi.
+
+Vi ønsker et inkluderende samfunn der den enkelte står fritt til å ta de relasjonsvalg som er rett for seg. Vi mener at alle relasjoner basert på samtykke og likeverd skal anerkjennes. Vi tar avstand fra alle former for relasjoner basert på utnyttelse og tvang.
+
+### Piratpartiet vil:
+
+- Sikre enkeltindividets rett til å utvikle naturlige og trygge relasjoner i forhold til egen identitet.
+- Fjerne kjønn fra pass.
+- Sikre like rettigheter uavhengig av seksuell legning
+- Arbeide for økt kompetanse og forståelse for LGBTQIA+-personer i samfunnet, for å minske diskriminering
+- Kjempe mot diskriminerende lovverk, og kjempe for antidiskriminerende lovverk – blant annet fjerne ekteskapsloven.
+- Sikre seksuell frihet og frihet for alle kjønnsuttrykk – dette er på lik linje med religion en privatsak, og angår kun de involverte.
+
+<div id="2-individ-og-personvern" />
 
 ## 2. Individ og personvern
 
@@ -209,6 +257,12 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 - Det skal opprettes et uavhengig varslerombud.
+
+<div id="21-norske-skytjenester" />
+
+### 2.1. Norske skytjenester
+
+Den samlede nasjonale avhengigheten av utenlandske leverandører av skytjenester er for stor og vi har ikke tilstrekkelig nasjonal kontroll, ifølge Nasjonal Sikkerhetsmyndighet. Vi mener et av svarene må være at staten bygger opp egne skytjenester for offentlig sektor, slik de gjør i flere andre land.
 
 <div id="3-kommunikasjon-og-infrastruktur" />
 
@@ -243,6 +297,9 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 - Kreve bruk av leverandørnøytrale fil- og dataformater i offentlig sektor.
 - Kreve at alt av offentlig finansierte kart gjøres fritt tilgjengelig for muligheter for gjenbruk.
 - Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med de nasjonale offentlige tjenestene.
+- Kutt i forbindelse med avbyråkratisering skal gjøres på toppen av offentlige organisasjoner og gevinstene skal tilfalle brukerne. Flere varme hender.
+- Kutte i offentlig konsulentbruk og fordele offentlige IKT-prosjekter i mindre deler for bedre kontroll, med lavere kostnader og bedre involvering av IT-eksperter, brukere og ansatte.
+- Sørge for bedre kostnadskontroll i offentlig sektor på områder med rask kostnadsvekst, blant annet i samferdselssektoren.
 - Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg digitalisering.
 - Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til rådighet for disse instansene.
 - Innføre kostnadstak på mobiltelefon ved roaming.
@@ -313,6 +370,14 @@ Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøri
 
 Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
 
+Vi støtter internasjonalt forbud mot atomvåpen og autonome våpensystemer. Norge må ratifisere forbudet mot atomvåpen. Atomvåpen må aldri bli brukt av
+Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytte mennesker mot dødelige autonome våpensystemer (drapsroboter).
+
+### Piratpartiet vil:
+- Søke å oppnå global nedrustning og en slutt på væpnet konflikt verden over.
+- Søke aktiv deeskalering i nye konflikter av militær karakter for å unngå utfall slik som de mangeårige borgerkrigene i Syria og Libya.
+- Søke i pågående konflikter opprettelsen av store varige humanitære soner hvor sivilbefolkningen kan være beskyttet mot krigføring, så en totalkollaps av samfunnets fysiske og sosiale infrastruktur kan unngås, og enkelte næringer, utdanninginstitusjoner og helsevesenet kan fortsette å fungere mest mulig.
+
 <div id="4-kunnskap-og-kultur" />
 
 ## 4. Kunnskap og kultur
@@ -330,11 +395,14 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Bekjempe bruk av regionsperrer for åndsverk.
 - Bekjempe spesialavgifter på lagringsmedier.
 - Gi rett til å utvikle ikke-kommersiell kultur basert på kommersielle produkter.
+- Få på plass regelverk og datasystemer som sikrer at innhenting av lisens til bruk av et de fleste åndsverk tar kort tid, kan gjøres ved selvbetjening, og har begrenset kostnad for privatfolk og små og mellomstore selskap.
 - Gi Nasjonalbiblioteket økt støtte til digitalisering av eldre aviser, tidsskrifter og andre publikasjoner, slik at de raskt blir lettere tilgjengelig for offentligheten enn i dag.
 - Opprettholde støtteordninger for kreative og kunstneriske aktiviteter.
 - Kreve at kulturinstitusjoner, som får offentlig støtte, publiserer gjenbrukbart digitalt innhold.
 - Innføre krav om at offentlig ansatte skal bidra med gjenbrukbart innhold på nettet i relevante arenaer.
 - Kreve bruk av programvare som er lisensiert med frie eller åpen-kildekode-lisenser i offentlig sektor.
+- Offentlige penger burde komme offentligheten til gode; programvare uten bruksbegrensninger kan gjenbrukes av offentligheten i andre sammenhenger.
+- Utvikling av programvare finansiert av det offentlige skal i størst mulig grad være tilgjengelig som åpen kildekode.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 
 <div id="41-utdanning" />
@@ -383,6 +451,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
 - Erstatte IKT/Kode-fag på grunnskolen med Teknologifag som endres annet hvert år for å holde tritt med teknologiske trender.
+- Innføre gratis skolemat til alle
 
 <div id="42-forskning-og-innovasjon" />
 
@@ -430,7 +499,7 @@ Piratpartiet ønsker satsing på e-sport og spillutvikling, anerkjennelse av spi
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
-<div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
+<div id="45-bruksrettigheter" />
 
 ### 4.5 Bruksrettigheter i forbindelse med opphavsrett
 
@@ -461,6 +530,19 @@ partiet ha lover som stemmer overens både med teknologisk og
 sosial utvikling, og med alminnelig rettsfølelse, og som dessuten
 er enkle å forholde seg til for folk flest.
 
+<div id="46-bibliotek" />
+
+### 4.6 Statlig finansiering av bibliotekene
+
+Piratpartiet ønsker å legge mer av finansieringen av bibliotekene til staten, for å hindre at det blir en kommunal salderingspost.
+
+Piratpartiet ønsker å øke statlig støtte til utbygging og drift av folkebiblioteker.
+
+Piratpartiet foreslår å øke statlige midler for å opprettholde dagens nivå på bibliotekstjenester. Ekstra midler bør øremerkes til økte kostnader på grunn av
+Covid-19-tiltak, så lenge dette er relevant.
+
+<div id="5-n%c3%a6ringsliv-og-%c3%b8konomi" />
+
 ## 5. Næringsliv og økonomi
 
 Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
@@ -487,6 +569,10 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Sikre den frie konkurransen gjennom å motarbeide monopoler og karteller gjennom å gripe inn mot private og offentlige monopoler og motarbeide uheldig konsentrasjon av politisk og økonomisk makt.
 - Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
+- Gi selvstendig næringsdrivende lik rett til sykepenger og pensjon.
+- Fjerne arbeidsgiveravgiften for nye bedrifter.
+- Ta bort unødvendige regler og skjema for bedrifter, NAV og helsevesenet.
+- Gjøre det lønnsomt å investere i nye arbeidsplasser.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 - Arbeide for et moderne regelverk for Bitcoin og annen kryptovaluta
@@ -623,6 +709,13 @@ Piratpartiet støtter den frie organisasjonsretten, men også retten til å vær
 
 Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som er lik eller høyere enn prisøkningen i landet. Videre vil vi fjerne frafallet i bruttotrygd for uføre som gifter seg eller blir samboer, da poenget med å bo sammen er å spare utgifter for å øke kjøpekraften.
 
+#### Piratpartiet mener at:
+- Pensjonistene skal ha forhandlingsrett.
+- Pensjoner og trygd skal KPI-reguleres, ingen underregulering.
+- Samordning av pensjon for ektefeller og samboere må fjernes.
+- Heve minstepensjon
+- De som arbeider i offentlig sektor må få samme rett til å motta lønn for arbeid i tillegg til pensjon, som i privat sektor, uten at pensjonen skal bli avkortet.
+
 <div id="513-globalisering" />
 
 ### 5.13. Globalisering
@@ -645,6 +738,12 @@ Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi ska
 ### 5.15. Forbrukervern
 
 Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
+
+<div id="516-menneskerettigheter-for-naeringslivet" />
+
+### 5.16. Menneskerettigheter for næringslivet
+
+Norsk næringsliv tjener på menneskerettighetsbrudd verden over. Dette går aller hardest utover utsatte mennesker i lav- og mellominntektsland. Myndighetene har til nå gjort lite for å forhindre dette, og har i stedet skjøvet ansvaret over på forbrukerne. Det er urettferdig! Norge må vedta en menneskerettighetslov for næringslivet. Denne må inkludere strenge sanksjoner for selskaper som bryter loven.
 
 <div id="6-klima-og-milj%c3%b8" />
 
@@ -677,27 +776,9 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
 
-### 6.1 Støtting av FNs bærekrafsmål
+### 6.1. Støtting av FNs bærekraftsmål
 
-Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål:
-
-- Utrydde alle former for fattigdom i hele verden.
-- Utrydde sult, oppnå matsikkerhet og bedre ernæring, og fremme bærekraftig landbruk.
-- Sikre god helse og fremme livskvalitet for alle, uansett alder.
-- Sikre inkluderende, rettferdig og god utdanning og fremme muligheter for livslang læring for alle.
-- Oppnå likestilling og styrke jenters og kvinners stilling.
-- Sikre bærekraftig vannforvaltning og tilgang til vann og gode sanitærforhold for alle
-- Sikre tilgang til pålitelig, bærekraftig og moderne energi til en overkommelig pris.
-- Fremme varig, inkluderende og bærekraftig økonomisk vekst, full sysselsetting og anstendig arbeid for alle.
-- Bygge robust infrastruktur, fremme inkluderende og bærekraftig industrialisering og bidra til innovasjon.
-- Redusere ulikhet i og mellom land.
-- Gjøre byer og bosettinger inkluderende, trygge, motstandsdyktige og bærekraftige
-- Sikre bærekraftige forbruks- og produksjonsmønstre.
-- Handle umiddelbart for å stoppe klimaendringene og bekjempe konsekvensene av dem.
-- Bevare og bruke hav og marine ressurser på en måte som fremmer bærekraftig utvikling.
-- Beskytte, gjenopprette og fremme bærekraftig bruk av økosystemer, sikre bærekraftig skogforvaltning, bekjempe ørkenspredning, stanse og reversere landforringelse samt stanse tap av artsmangfold.
-- Fremme fredelige og inkluderende samfunn med sikte på bærekraftig utvikling, sørge for tilgang til rettsvern for alle og bygge velfungerende, ansvarlige og inkluderende institusjoner på alle nivåer.
-- Styrke gjennomføringsmidlene og fornye globale partnerskap for bærekraftig utvikling.
+Piratpartiet ønsker seg en bedre verden for alle, og vil jobbe for en politikk som sikrer alle et verdig liv. Piratpartiet støtter derfor også FNs bærekraftsmål.
 
 <div id="7-helse" />
 
@@ -732,8 +813,9 @@ Vi anser universell tilgang til medisiner og medisinsk behandling som en mennesk
 - Innholdet i avtaler mellom legemiddelindustrien og offentlig helsesektor må åpne og tilgjengelige.
 - Satse på forebyggende helse- og kostholdstiltak i barnehage og skole.
 - Faglige vurderinger må ligge til grunn for vurderingene av hvor sykehustilbudene skal ligge.
-- Øremerke midler til å opprette og drifte stående MR-undersøkelse på Rikshospitalet i Oslo og på Haukeland i
-Bergen.
+- Øremerke midler til å opprette og drifte stående MR-undersøkelse på Rikshospitalet i Oslo og på Haukeland i Bergen.
+- Avskaffe NAV sin utredningsprosess under arbeidsavklaring og ordningen med arbeidsavklaringspenger (AAP), og overføre ansvar
+til helsetjenesten, for vi ønsker et nytt og mer medmenneskelig system.
 
 <div id="71-ruspolitikk" />
 
@@ -757,6 +839,10 @@ Vi ønsker at lovproposisjonen om retten til brukerstyrt personlig assistanse (B
 
 Piratpartiet mener at vi må lytte til dem som føler problemet med mobbing av funksjonshemmede på kroppen. Piratpartiet ønsker at grupper med ulike funksjonshemminger skal få en skolehverdag tilrettelagt sine særskilte behov. For å sikre at mobbing ikke er et problem må man sikre gode kunnskaper og toleranse i samfunnet. Vi tror mye av mobbingen generelt kommer av manglende toleranse for annerledeshet. Den toleransen og kjærligheten man ser hos små barn må dyrkes og støttes, slik at man ikke mister den på veien til voksenlivet.
 
+#### Piratpartiet ønsker:
+- en full statlig finansiert BPA-ordning. Dette vil sikre at alle som fyller vilkårene for BPA, vil få muligheten til å nyttiggjøre seg ordningen, uavhengig av bostedskommune.
+- å flytte BPA-ordningen ut av helse- og omsorgstjenesteloven og tilbake til sosialtjenesteloven innunder Arbeids- og sosialdepartementet, med åpning for samkoordinasjon med helsetjenesten der det er behov.
+
 <div id="74-synsrehabilitering" />
 
 ### 7.4. Synsrehabilitering
@@ -766,10 +852,24 @@ Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksett
 
 Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
 
-<div id="75-omskj%c3%a6ring" />
+<div id="#75-ufoeretrygd-og-aap" />
 
-### 7.5. Omskjæring
+### 7.5 Uføretrygd og AAP
+Piratpartiet vil jobbe for omstrukturering av prosessen for å innvilge uføretrygd, hvor legers vurdering er tilstrekkelig. Dette vil korte ned på behovet for AAP, og vil beskytte pasienter mot å bruke opp resterende fungeringsevne på utprøvingstiltak. Arbeidsutprøving må bli frivillig, og tilrettelagt på en slik måte at det ikke forverrer helse og fungering.
+
+<div id="#76-barnevern" />
+
+### 7.6. Barnevern
+
+Barnevernet skal deles slik at man får en kommunal forebyggings- og hjelpeenhet; mens omsorgsovertakelser og lignende overlates til statlig virksomhet.
+
+Fylkesnemndene skal fjernes og barnevernssaker skal behandles i domstolsapparatet.
+
+Kravene til sakkyndige og rapportene som skrives, skal strammes inn.
+
+<div id="77-omskjaering" />
+
+### 7.7. Omskjæring
 Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
 
-### 7.6 Uføretrygd og AAP
-Piratpartiet vil jobbe for omstrukturering av prosessen for å innvilge uføretrygd, hvor legers vurdering er tilstrekkelig. Dette vil korte ned på behovet for AAP, og vil beskytte pasienter mot å bruke opp resterende fungeringsevne på utprøvingstiltak. Arbeidsutprøving må bli frivillig, og tilrettelagt på en slik måte at det ikke forverrer helse og fungering.
+
