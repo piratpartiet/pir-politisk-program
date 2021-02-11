@@ -33,8 +33,8 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [1.2. Kommunesammenslåing](#12-kommunesammensl%c3%a5ing)
     - [1.3. Innvandrings- og asylpolitikk](#13-innvandrings--og-asylpolitikk)
     - [1.4. Boligpolitikk](#14-boligpolitikk)
-    - [1.5. Barn og unge] (#15-barn-og-unge)
-    - [1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter] (#16-skeives-rettigheter)
+    - [1.5. Barn og unge](#15-barn-og-unge)
+    - [1.6. Lesbiske, homofile, bifile, transpersoner og skeives rettigheter](#16-skeives-rettigheter)
   - [2. Individ og personvern](#2-individ-og-personvern)
     - [2.1. Norske skytjenester](#21-norske-skytjenester)
   - [3. Kommunikasjon og infrastruktur](#3-kommunikasjon-og-infrastruktur)
@@ -67,7 +67,7 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [5.13. Globalisering](#513-globalisering)
     - [5.14. Økologi](#514-%c3%98kologi)
     - [5.15. Forbrukervern](#515-forbrukervern)
-    - [5.16. Menneskerettigheter for næringslivet] (#516-menneskerettigheter-for-naeringslivet)
+    - [5.16. Menneskerettigheter for næringslivet](#516-menneskerettigheter-for-naeringslivet)
   - [6. Klima og miljø](#6-klima-og-milj%c3%b8)
     - [6.1. Støtting av FNs bærekrafsmål](#61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l)
   - [7. Helse](#7-helse)
@@ -76,7 +76,7 @@ Våre prinsipper og standpunkter er organisert i søyler, som igjen er delt inn 
     - [7.3. Funksjonshemmede](#73-funksjonshemmede)
     - [7.4. Synsrehabilitering](#74-synsrehabilitering)
     - [7.5 Uføretrygd og AAP]("#75-ufoeretrygd-og-aap)
-    - [7.6. Barnevern] (#76-barnevern)
+    - [7.6. Barnevern](#76-barnevern)
     - [7.7. Omskjæring](#77-omskjaering)
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
