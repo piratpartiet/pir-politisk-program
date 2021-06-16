@@ -117,6 +117,7 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 
 - Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
 journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
+- At alle offentlige virksomheter skal tilrettelegge for at man på en enkel og trygg måte skal kunne sende varsler anonymt om kritikkverdige forhold i virksomheten. Dette skal behandles på en betryggende måte i henhold til gjeldende lover og regler.
 
 <div id="11-flytende-demokrati" />
 
