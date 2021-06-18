@@ -377,6 +377,7 @@ Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytt
 - Søke å oppnå global nedrustning og en slutt på væpnet konflikt verden over.
 - Søke aktiv deeskalering i nye konflikter av militær karakter for å unngå utfall slik som de mangeårige borgerkrigene i Syria og Libya.
 - Søke i pågående konflikter opprettelsen av store varige humanitære soner hvor sivilbefolkningen kan være beskyttet mot krigføring, så en totalkollaps av samfunnets fysiske og sosiale infrastruktur kan unngås, og enkelte næringer, utdanninginstitusjoner og helsevesenet kan fortsette å fungere mest mulig.
+- At sivilforsvaret skal til enhver tid ha pandemiberedskap (sanitet, medisinsk utstyr, masker/munnbind og lignende, samt trening i bruk av utstyret).
 
 <div id="4-kunnskap-og-kultur" />
 
