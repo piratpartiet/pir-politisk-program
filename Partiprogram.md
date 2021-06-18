@@ -450,6 +450,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
+- At skolegudstjenester ikke bør finne sted i skolens lokaler eller i skolens regi. Skolens fysiske miljø bør framstå som religionsnøytralt.
 - Erstatte IKT/Kode-fag på grunnskolen med Teknologifag som endres annet hvert år for å holde tritt med teknologiske trender.
 - Innføre gratis skolemat til alle
 
