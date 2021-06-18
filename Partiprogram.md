@@ -773,6 +773,7 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Kreve åpen og tilgjengelig informasjon om varedeklarasjoner og produksjonsmetoder slik at forurensere skal betale og forbrukere kan ta velinformerte valg. 
 - Stille strenge krav til bruk av dyr til forskning, og forby bruk av dyr til kosmetiske eller underholdningsmessige formål (eksempelvis tyrefekting). 
 - Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
+- Sikre hjemfallsrett på alle energiressurser for å sikre at disse blir tilhørende folket.
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
 
