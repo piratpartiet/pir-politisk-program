@@ -366,9 +366,7 @@ Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billi
 
 ### 3.6. Forsvaret
 
-Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV). Vi støtter også kravet om granskning fra «Styrk Heimevernet».
-
-Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
+Piratpartiet ønsker en gjenreisning av Heimevernet til en styrke på 56.000 HV-soldater og en gjenopprettelse av Sjøheimevernet.
 
 Vi støtter internasjonalt forbud mot atomvåpen og autonome våpensystemer. Norge må ratifisere forbudet mot atomvåpen. Atomvåpen må aldri bli brukt av
 Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytte mennesker mot dødelige autonome våpensystemer (drapsroboter).
