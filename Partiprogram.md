@@ -656,6 +656,8 @@ Finansinstitusjoner og juridiske institusjoner som konsulterer sine kunder eller
 
 Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndragelse.
 
+Piratpartiet vil innføre en Tobinskatt på internasjonale valutatransaksjoner for å sikre skattlegging av multinasjonale konserner.
+
 <div id="56-pensjonspoeng-for-studenter" />
 
 ### 5.6. Pensjonspoeng for studenter
