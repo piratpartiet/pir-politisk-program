@@ -306,7 +306,6 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
-- Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
 
 <div id="31-energipolitikk" />
 
@@ -579,7 +578,6 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
 - Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer.
 - Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
-- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 
 <div id="51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere" />
 
