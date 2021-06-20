@@ -856,6 +856,8 @@ Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksett
 
 Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
 
+Piratpartiet vil ha tilbud om tidlig testing i skolen av fysiske og psykiske plager som kan være til hinder for læring og utvikling.
+
 <div id="#75-ufoeretrygd-og-aap" />
 
 ### 7.5 Uføretrygd og AAP
