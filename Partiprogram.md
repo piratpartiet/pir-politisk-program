@@ -323,6 +323,8 @@ Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter f
 #### Ny strømtariff
 Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert. Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i Norge.
 
+Private husholdninger skal ha et prisnivå på strøm der husholdninger med et strømforbruk opp til dagens normalforbruk skal ha et pristak på strøm tilsvarende industriens subsidierte strømpriser, og hvor et strømforbruk utover normalt forbruk i 2020 skal prises til markedspris. Innbyggerne er eierne av våre felles ressurser, og disse skal komme innbyggerne til gode.
+
 #### Lovgivning og strømhandel
 Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
