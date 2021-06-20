@@ -716,6 +716,12 @@ Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som
 - Samordning av pensjon for ektefeller og samboere må fjernes.
 - Heve minstepensjon
 - De som arbeider i offentlig sektor må få samme rett til å motta lønn for arbeid i tillegg til pensjon, som i privat sektor, uten at pensjonen skal bli avkortet.
+- Innføre pensjonsopptjening fra første krone i privat sektor, og videreføre skjermingstillegg for uføre pensjonister.
+- At Pensjonistforbundet skal få plass i Teknisk Beregningsutvalg (TBU) på vegne av pensjonistenes organisasjoner.
+- Det skal etableres kvartalsvise møter mellom pensjonistenes organisasjoner og regjeringen,
+der både pensjon og øvrige saker av interesse for pensjonistene kan løftes og drøftes.
+- Opprette en plan for årlig opptrapping av minste pensjonsnivå opp mot EUs
+fattigdomsgrense på minst 60 prosent av medianinntekt, hvor første steg skal gjennomføres i 2021.
 
 <div id="513-globalisering" />
 
