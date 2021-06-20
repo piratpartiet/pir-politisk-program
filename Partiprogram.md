@@ -477,6 +477,7 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
 - Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
+- Sikre lokal produksjon av medisiner gjennom tvungne lisenser i krisesituasjoner som pandemier.
 
 <div id="43-spill-og-e-sport" />
 
