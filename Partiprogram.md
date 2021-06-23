@@ -585,6 +585,8 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
 - Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer.
 - Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
+- Erstatte kontantstøtte med skattefradrag for tilsyn av barn uavhengig av om man velger å være hjemme eller sende barn i barnehagen.
+
 
 <div id="51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere" />
 
