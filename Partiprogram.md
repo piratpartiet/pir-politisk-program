@@ -259,6 +259,7 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 - Det skal opprettes et uavhengig varslerombud.
+- Ha igangsatt en NOU (Norges offentlige utredninger) om konsekvensene av forrige lovendring rundt sexkjøp. Utredningen må skje i samarbeid med sexarbeidernes brukerorganisasjoner
 
 <div id="21-norske-skytjenester" />
 
