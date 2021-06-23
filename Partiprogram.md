@@ -114,9 +114,11 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Støtte minoriteter med retten til å holde folkeavstemning om økt autonomi og/eller nasjonal selvstendighet, der hvor det disse har gode historiske, geografiske og kulturelt etablerte grunnlag for slik selvstendighet.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
-
 - Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
 journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
+- At alle offentlige virksomheter skal tilrettelegge for at man på en enkel og trygg måte skal kunne sende varsler anonymt om kritikkverdige forhold i virksomheten. Dette skal behandles på en betryggende måte i henhold til gjeldende lover og regler.
+- Endre grunnlovens § 4 slik at Kongens plikt til å bekjenne seg til en religion oppheves. Kongens eller dronningens tro eller livssyn bør være en privatsak. Erstatte "kongen" med "statsoverhode".
+- At statsstøtte til religion/livssynssamfunn bør avskaffes. Det skal derimot kunne søkes driftstilskudd på samme måte som andre ideelle organisasjoner for aktiviteter og tilbud.
 
 <div id="11-flytende-demokrati" />
 
@@ -257,6 +259,7 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 - Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 - Det skal opprettes et uavhengig varslerombud.
+- Ha igangsatt en NOU (Norges offentlige utredninger) om konsekvensene av forrige lovendring rundt sexkjøp. Utredningen må skje i samarbeid med sexarbeidernes brukerorganisasjoner
 
 <div id="21-norske-skytjenester" />
 
@@ -305,7 +308,6 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
-- Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
 
 <div id="31-energipolitikk" />
 
@@ -322,6 +324,8 @@ Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter f
 
 #### Ny strømtariff
 Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert. Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i Norge.
+
+Private husholdninger skal ha et prisnivå på strøm der husholdninger med et strømforbruk opp til dagens normalforbruk skal ha et pristak på strøm tilsvarende industriens subsidierte strømpriser, og hvor et strømforbruk utover normalt forbruk i 2020 skal prises til markedspris. Innbyggerne er eierne av våre felles ressurser, og disse skal komme innbyggerne til gode.
 
 #### Lovgivning og strømhandel
 Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
@@ -366,9 +370,7 @@ Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billi
 
 ### 3.6. Forsvaret
 
-Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV). Vi støtter også kravet om granskning fra «Styrk Heimevernet».
-
-Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
+Piratpartiet ønsker en gjenreisning av Heimevernet til en styrke på 56.000 HV-soldater og en gjenopprettelse av Sjøheimevernet.
 
 Vi støtter internasjonalt forbud mot atomvåpen og autonome våpensystemer. Norge må ratifisere forbudet mot atomvåpen. Atomvåpen må aldri bli brukt av
 Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytte mennesker mot dødelige autonome våpensystemer (drapsroboter).
@@ -377,6 +379,7 @@ Norge. Norge må jobbe for nasjonal og internasjonal lovgivning som skal beskytt
 - Søke å oppnå global nedrustning og en slutt på væpnet konflikt verden over.
 - Søke aktiv deeskalering i nye konflikter av militær karakter for å unngå utfall slik som de mangeårige borgerkrigene i Syria og Libya.
 - Søke i pågående konflikter opprettelsen av store varige humanitære soner hvor sivilbefolkningen kan være beskyttet mot krigføring, så en totalkollaps av samfunnets fysiske og sosiale infrastruktur kan unngås, og enkelte næringer, utdanninginstitusjoner og helsevesenet kan fortsette å fungere mest mulig.
+- At sivilforsvaret skal til enhver tid ha pandemiberedskap (sanitet, medisinsk utstyr, masker/munnbind og lignende, samt trening i bruk av utstyret).
 
 <div id="4-kunnskap-og-kultur" />
 
@@ -404,6 +407,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Offentlige penger burde komme offentligheten til gode; programvare uten bruksbegrensninger kan gjenbrukes av offentligheten i andre sammenhenger.
 - Utvikling av programvare finansiert av det offentlige skal i størst mulig grad være tilgjengelig som åpen kildekode.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
+- Fjerne den automatiske statsstøtten til livssynssamfunn, og at disse heller skal få tilgang på søknadsordninger som baserer seg på faktiske aktiviteter, og etter gitte kriterier som utelukker støtte til aktiviteter som strider mot norsk lov.
 
 <div id="41-utdanning" />
 
@@ -450,6 +454,7 @@ uavhengig av hvor de bor og hvilken skole de går på.
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 - Legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
+- At skolegudstjenester ikke bør finne sted i skolens lokaler eller i skolens regi. Skolens fysiske miljø bør framstå som religionsnøytralt.
 - Erstatte IKT/Kode-fag på grunnskolen med Teknologifag som endres annet hvert år for å holde tritt med teknologiske trender.
 - Innføre gratis skolemat til alle
 
@@ -476,6 +481,7 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
 - Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
+- Sikre lokal produksjon av medisiner gjennom tvungne lisenser i krisesituasjoner som pandemier.
 
 <div id="43-spill-og-e-sport" />
 
@@ -579,8 +585,8 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
 - Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer.
 - Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
-- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 - Erstatte kontantstøtte med skattefradrag for tilsyn av barn uavhengig av om man velger å være hjemme eller sende barn i barnehagen.
+
 
 <div id="51-bedre-rettigheter-for-n%c3%a6ringsdrivende-og-gr%c3%bcndere" />
 
@@ -657,6 +663,8 @@ Finansinstitusjoner og juridiske institusjoner som konsulterer sine kunder eller
 
 Det må igangsettes et bedre internasjonalt samarbeid for å hindre skatteunndragelse.
 
+Piratpartiet vil innføre en Tobinskatt på internasjonale valutatransaksjoner for å sikre skattlegging av multinasjonale konserner.
+
 <div id="56-pensjonspoeng-for-studenter" />
 
 ### 5.6. Pensjonspoeng for studenter
@@ -716,6 +724,12 @@ Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som
 - Samordning av pensjon for ektefeller og samboere må fjernes.
 - Heve minstepensjon
 - De som arbeider i offentlig sektor må få samme rett til å motta lønn for arbeid i tillegg til pensjon, som i privat sektor, uten at pensjonen skal bli avkortet.
+- Innføre pensjonsopptjening fra første krone i privat sektor, og videreføre skjermingstillegg for uføre pensjonister.
+- At Pensjonistforbundet skal få plass i Teknisk Beregningsutvalg (TBU) på vegne av pensjonistenes organisasjoner.
+- Det skal etableres kvartalsvise møter mellom pensjonistenes organisasjoner og regjeringen,
+der både pensjon og øvrige saker av interesse for pensjonistene kan løftes og drøftes.
+- Opprette en plan for årlig opptrapping av minste pensjonsnivå opp mot EUs
+fattigdomsgrense på minst 60 prosent av medianinntekt, hvor første steg skal gjennomføres i 2021.
 
 <div id="513-globalisering" />
 
@@ -774,6 +788,10 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Kreve åpen og tilgjengelig informasjon om varedeklarasjoner og produksjonsmetoder slik at forurensere skal betale og forbrukere kan ta velinformerte valg. 
 - Stille strenge krav til bruk av dyr til forskning, og forby bruk av dyr til kosmetiske eller underholdningsmessige formål (eksempelvis tyrefekting). 
 - Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
+- Vil forby tvangsavl og avl av hunderaser som lider av alvorlige helseplager.
+- La lokalsamfunnene ha en større andel av inntektene fra energiressursene i egen kommune.
+- Sikre hjemfallsrett på alle energiressurser for å sikre at disse blir tilhørende folket.
+
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
 
@@ -852,6 +870,8 @@ Dessverre tar det alt for lang tid før hjelp i form av synsrehabilitering blir 
 Piratpartiet støtter tidlig innsats og økt kompetanse i kommunene og iverksetting av konkrete forbedringstiltak for eksempel i form av informasjonstiltak overfor fastlegene slik at disse selv har og kan videreformidle korrekt informasjon.
 
 Det er viktig at blinde og svaksynte får nødvendig rehabilitering. Dette kan bidra til at blinde og svaksynte blir mer selvstendige og får økt livsutfoldelse.
+
+Piratpartiet vil ha tilbud om tidlig testing i skolen av fysiske og psykiske plager som kan være til hinder for læring og utvikling.
 
 <div id="#75-ufoeretrygd-og-aap" />
 
