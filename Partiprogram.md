@@ -114,10 +114,11 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Støtte minoriteter med retten til å holde folkeavstemning om økt autonomi og/eller nasjonal selvstendighet, der hvor det disse har gode historiske, geografiske og kulturelt etablerte grunnlag for slik selvstendighet.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
-
 - Utrede en endring i pressestøtten som vil gi individuelle frie journalister, samt små grupper av frie
 journalister, muligheten til å gjennomføre journalistisk arbeid uavhengig av etablerte nyhetsorganisasjoner.
 - At alle offentlige virksomheter skal tilrettelegge for at man på en enkel og trygg måte skal kunne sende varsler anonymt om kritikkverdige forhold i virksomheten. Dette skal behandles på en betryggende måte i henhold til gjeldende lover og regler.
+- Endre grunnlovens § 4 slik at Kongens plikt til å bekjenne seg til en religion oppheves. Kongens eller dronningens tro eller livssyn bør være en privatsak. Erstatte "kongen" med "statsoverhode".
+- At statsstøtte til religion/livssynssamfunn bør avskaffes. Det skal derimot kunne søkes driftstilskudd på samme måte som andre ideelle organisasjoner for aktiviteter og tilbud.
 
 <div id="11-flytende-demokrati" />
 
