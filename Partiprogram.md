@@ -407,6 +407,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Offentlige penger burde komme offentligheten til gode; programvare uten bruksbegrensninger kan gjenbrukes av offentligheten i andre sammenhenger.
 - Utvikling av programvare finansiert av det offentlige skal i størst mulig grad være tilgjengelig som åpen kildekode.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
+- Fjerne den automatiske statsstøtten til livssynssamfunn, og at disse heller skal få tilgang på søknadsordninger som baserer seg på faktiske aktiviteter, og etter gitte kriterier som utelukker støtte til aktiviteter som strider mot norsk lov.
 
 <div id="41-utdanning" />
 
