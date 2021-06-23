@@ -788,6 +788,7 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 - Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
 - Vil forby tvangsavl og avl av hunderaser som lider av alvorlige helseplager.
 - La lokalsamfunnene ha en større andel av inntektene fra energiressursene i egen kommune.
+- Sikre hjemfallsrett på alle energiressurser for å sikre at disse blir tilhørende folket.
 
 
 <div id="61-st%c3%b8tting-av-fns-b%c3%a6rekrafsm%c3%a5l" />
